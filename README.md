@@ -74,10 +74,19 @@ Figures visualising the co-predication acceptability annotations for the differe
 
 Figures visualising the word sense similarity estimates for the different combinations of sense interpretations as calculated based on BERT Base, ELMo and Word2Vec can be found in the folder `computational_figures`. 
 
+![Sense Similarity Ratings for Newspaper](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/similarity_figures/Newspaper_judgements.png)
+![Sense Similarity Ratings for Magazine](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/similarity_figures/Magazine_judgements.png)
+
 ## Distributions of Annotations
 
 The folder `distribution_figures` contains figures showing the distributions of human annotations or computational similarity ratings for same-sense vs cross-sense readings of polysemic and homonymic items in the data. The paper contains more information and a detailed analysis of these figures.
 
+![Distribution of Human Word Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/similarity_distribution.png)
+![Distribution of BERT Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/bert_base_last4_distribution.png)
+
 ## Patterns of Lexical Ambiguity
 
 The folder `heatmap_figures` contains figures displaying similarity maps between the different senses of a lexically ambiguous target word. There are two versions of each figure, the first one containing all senses tested in our study, the second one indicated by `_common` contains only those senses common to other targets of the same type of polysemic alternation (i.e. omits homonymic and experimental pairings). These figures can be used to investigate the patterns of sense similarity across targets allowing for the same set of sense alternations as indicated in the list above.
+
+![Similarity Patterns for Newspaper](https://raw.githubusercontent.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/main/heatmap_figures/Newspaper_heatmap_common.png)
+![Similarity Patterns for Magazine](https://raw.githubusercontent.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/main/heatmap_figures/Magazine_heatmap_common.png)
