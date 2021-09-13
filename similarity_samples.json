@@ -1,0 +1,4804 @@
+{	"1_11_a":
+    [
+        "newspaper: organisation/organisation",
+        "The newspaper fired its editor in chief.",
+        "The newspaper was sued for defamation.",
+        1
+    ],
+    "1_11_b":
+    [
+        "newspaper: organisation/organisation",
+        "The newspaper was sued for defamation.",
+        "The newspaper fired its editor in chief.",
+        1
+    ],
+    "1_12_a":
+    [
+        "newspaper: organisation/physical",
+        "The newspaper fired its editor in chief.",
+        "The newspaper got wet from the rain.",
+        1
+    ],
+    "1_12_b":
+    [
+        "newspaper: organisation/physical",
+        "The newspaper got wet from the rain.",
+        "The newspaper fired its editor in chief.",
+        1
+    ],
+    "1_13_a":
+    [
+        "newspaper: organisation/information",
+        "The newspaper fired its editor in chief.",
+        "The newspaper is rather satirical today.",
+        1
+    ],
+    "1_13_b":
+    [
+        "newspaper: organisation/information",
+        "The newspaper is rather satirical today.",
+        "The newspaper fired its editor in chief.",
+        1
+    ],
+    "1_21_a":
+    [
+        "newspaper: physical/organisation",
+        "The newspaper lies on the kitchen table.",
+        "The newspaper was sued for defamation.",
+        1
+    ],
+    "1_21_b":
+    [
+        "newspaper: physical/organisation",
+        "The newspaper was sued for defamation.",
+        "The newspaper lies on the kitchen table.",
+        1
+    ],
+    "1_22_a":
+    [
+        "newspaper: physical/physical",
+        "The newspaper lies on the kitchen table.",
+        "The newspaper got wet from the rain.",
+        1
+    ],
+    "1_22_b":
+    [
+        "newspaper: physical/physical",
+        "The newspaper got wet from the rain.",
+        "The newspaper lies on the kitchen table.",
+        1
+    ],
+    "1_23_a":
+    [
+        "newspaper: physical/information",
+        "The newspaper lies on the kitchen table.",
+        "The newspaper is rather satirical today.",
+        1
+    ],
+    "1_23_b":
+    [
+        "newspaper: physical/information",
+        "The newspaper is rather satirical today.",
+        "The newspaper lies on the kitchen table.",
+        1
+    ],
+    "1_31_a":
+    [
+        "newspaper: information/organisation",
+        "The newspaper wasn't very interesting.",
+        "The newspaper was sued for defamation.",
+        1
+    ],
+    "1_31_b":
+    [
+        "newspaper: information/organisation",
+        "The newspaper was sued for defamation.",
+        "The newspaper wasn't very interesting.",
+        1
+    ],
+    "1_32_a":
+    [
+        "newspaper: information/physical",
+        "The newspaper wasn't very interesting.",
+        "The newspaper got wet from the rain.",
+        1
+    ],
+    "1_32_b":
+    [
+        "newspaper: information/physical",
+        "The newspaper got wet from the rain.",
+        "The newspaper wasn't very interesting.",
+        1
+    ],
+    "1_33_a":
+    [
+        "newspaper: information/information",
+        "The newspaper wasn't very interesting.",
+        "The newspaper is rather satirical today.",
+        1
+    ],
+    "1_33_b":
+    [
+        "newspaper: information/information",
+        "The newspaper is rather satirical today.",
+        "The newspaper wasn't very interesting.",
+        1
+    ],
+    "2_11_a":
+    [
+        "Hemingway: person/person",
+        "Hemingway was born in Illinois.",
+        "Hemingway won a Nobel prize.",
+        0
+    ],
+    "2_11_b":
+    [
+        "Hemingway: person/person",
+        "Hemingway won a Nobel prize.",
+        "Hemingway was born in Illinois.",
+        0
+    ],
+    "2_12_a":
+    [
+        "Hemingway: person/work",
+        "Hemingway was born in Illinois.",
+        "Hemingway is not suitable for children.",
+        0
+    ],
+    "2_12_b":
+    [
+        "Hemingway: person/work",
+        "Hemingway is not suitable for children.",
+        "Hemingway was born in Illinois.",
+        0
+    ],
+    "2_21_a":
+    [
+        "Hemingway: work/person",
+        "Hemingway is still widely read today.",
+        "Hemingway won a Nobel prize.",
+        0
+    ],
+    "2_21_b":
+    [
+        "Hemingway: work/person",
+        "Hemingway won a Nobel prize.",
+        "Hemingway is still widely read today.",
+        0
+    ],
+    "2_22_a":
+    [
+        "Hemingway: work/work",
+        "Hemingway is still widely read today.",
+        "Hemingway is not suitable for children.",
+        0
+    ],
+    "2_22_b":
+    [
+        "Hemingway: work/work",
+        "Hemingway is not suitable for children.",
+        "Hemingway is still widely read today.",
+        0
+    ],
+    "3_11_a":
+    [
+        "War and Peace: work/work",
+        "War and Peace was finally published in 1869.",
+        "War and Peace won a range of international awards.",
+        1
+    ],
+    "3_11_b":
+    [
+        "War and Peace: work/work",
+        "War and Peace won a range of international awards.",
+        "War and Peace was finally published in 1869.",
+        1
+    ],
+    "3_12_a":
+    [
+        "War and Peace: work/content",
+        "War and Peace was finally published in 1869.",
+        "War and Peace describes a number of historic battles.",
+        1
+    ],
+    "3_12_b":
+    [
+        "War and Peace: work/content",
+        "War and Peace describes a number of historic battles.",
+        "War and Peace was finally published in 1869.",
+        1
+    ],
+    "3_13_a":
+    [
+        "War and Peace: work/physical",
+        "War and Peace was finally published in 1869.",
+        "War and Peace is bound in black embossed leather.",
+        1
+    ],
+    "3_13_b":
+    [
+        "War and Peace: work/physical",
+        "War and Peace is bound in black embossed leather.",
+        "War and Peace was finally published in 1869.",
+        1
+    ],
+    "3_21_a":
+    [
+        "War and Peace: content/work",
+        "War and Peace chronicles the period of 1805 to 1820.",
+        "War and Peace won a range of international awards.",
+        1
+    ],
+    "3_21_b":
+    [
+        "War and Peace: content/work",
+        "War and Peace won a range of international awards.",
+        "War and Peace chronicles the period of 1805 to 1820.",
+        1
+    ],
+    "3_22_a":
+    [
+        "War and Peace: content/content",
+        "War and Peace chronicles the period of 1805 to 1820.",
+        "War and Peace describes a number of historic battles.",
+        1
+    ],
+    "3_22_b":
+    [
+        "War and Peace: content/content",
+        "War and Peace describes a number of historic battles.",
+        "War and Peace chronicles the period of 1805 to 1820.",
+        1
+    ],
+    "3_23_a":
+    [
+        "War and Peace: content/physical",
+        "War and Peace chronicles the period of 1805 to 1820.",
+        "War and Peace is bound in black embossed leather.",
+        1
+    ],
+    "3_23_b":
+    [
+        "War and Peace: content/physical",
+        "War and Peace is bound in black embossed leather.",
+        "War and Peace chronicles the period of 1805 to 1820.",
+        1
+    ],
+    "3_31_a":
+    [
+        "War and Peace: physical/work",
+        "War and Peace gathers dust on the top shelf.",
+        "War and Peace won a range of international awards.",
+        1
+    ],
+    "3_31_b":
+    [
+        "War and Peace: physical/work",
+        "War and Peace won a range of international awards.",
+        "War and Peace gathers dust on the top shelf.",
+        1
+    ],
+    "3_32_a":
+    [
+        "War and Peace: physical/content",
+        "War and Peace gathers dust on the top shelf.",
+        "War and Peace describes a number of historic battles.",
+        1
+    ],
+    "3_32_b":
+    [
+        "War and Peace: physical/content",
+        "War and Peace describes a number of historic battles.",
+        "War and Peace gathers dust on the top shelf.",
+        1
+    ],
+    "3_33_a":
+    [
+        "War and Peace: physical/physical",
+        "War and Peace gathers dust on the top shelf.",
+        "War and Peace is bound in black embossed leather.",
+        1
+    ],
+    "3_33_b":
+    [
+        "War and Peace: physical/physical",
+        "War and Peace is bound in black embossed leather.",
+        "War and Peace gathers dust on the top shelf.",
+        1
+    ],
+    "4_11_a":
+    [
+        "lunch: food/food",
+        "Lunch was exceptionally delicious today.",
+        "Lunch got cold while we waited for someone.",
+        0
+    ],
+    "4_11_b":
+    [
+        "lunch: food/food",
+        "Lunch got cold while we waited for someone.",
+        "Lunch was exceptionally delicious today.",
+        0
+    ],
+    "4_12_a":
+    [
+        "lunch: food/event",
+        "Lunch was exceptionally delicious today.",
+        "Lunch is great for socialising and networking.",
+        0
+    ],
+    "4_12_b":
+    [
+        "lunch: food/event",
+        "Lunch is great for socialising and networking.",
+        "Lunch was exceptionally delicious today.",
+        0
+    ],
+    "4_21_a":
+    [
+        "lunch: event/food",
+        "Lunch took more than an hour yesterday.",
+        "Lunch got cold while we waited for someone.",
+        0
+    ],
+    "4_21_b":
+    [
+        "lunch: event/food",
+        "Lunch got cold while we waited for someone.",
+        "Lunch took more than an hour yesterday.",
+        0
+    ],
+    "4_22_a":
+    [
+        "lunch: event/event",
+        "Lunch took more than an hour yesterday.",
+        "Lunch is great for socialising and networking.",
+        0
+    ],
+    "4_22_b":
+    [
+        "lunch: event/event",
+        "Lunch is great for socialising and networking.",
+        "Lunch took more than an hour yesterday.",
+        0
+    ],
+    "5_11_a":
+    [
+        "door: physical/physical",
+        "The door was turned into a table top.",
+        "The door splintered when they hit it.",
+        1
+    ],
+    "5_11_b":
+    [
+        "door: physical/physical",
+        "The door splintered when they hit it.",
+        "The door was turned into a table top.",
+        1
+    ],
+    "5_12_a":
+    [
+        "door: physical/aperture",
+        "The door was turned into a table top.",
+        "The door connects the two rooms.",
+        1
+    ],
+    "5_12_b":
+    [
+        "door: physical/aperture",
+        "The door connects the two rooms.",
+        "The door was turned into a table top.",
+        1
+    ],
+    "5_21_a":
+    [
+        "door: aperture/physical",
+        "The door leads to a long hallway.",
+        "The door splintered when they hit it.",
+        1
+    ],
+    "5_21_b":
+    [
+        "door: aperture/physical",
+        "The door splintered when they hit it.",
+        "The door leads to a long hallway.",
+        1
+    ],
+    "5_22_a":
+    [
+        "door: aperture/aperture",
+        "The door leads to a long hallway.",
+        "The door connects the two rooms.",
+        1
+    ],
+    "5_22_b":
+    [
+        "door: aperture/aperture",
+        "The door connects the two rooms.",
+        "The door leads to a long hallway.",
+        1
+    ],
+    "6_11_a":
+    [
+        "DVD: physical/physical",
+        "The DVD has some scratches but looks fine.",
+        "The DVD got stuck in the player yesterday.",
+        1
+    ],
+    "6_11_b":
+    [
+        "DVD: physical/physical",
+        "The DVD got stuck in the player yesterday.",
+        "The DVD has some scratches but looks fine.",
+        1
+    ],
+    "6_12_a":
+    [
+        "DVD: physical/content",
+        "The DVD has some scratches but looks fine.",
+        "The DVD wasn't very entertaining somehow.",
+        1
+    ],
+    "6_12_b":
+    [
+        "DVD: physical/content",
+        "The DVD wasn't very entertaining somehow.",
+        "The DVD has some scratches but looks fine.",
+        1
+    ],
+    "6_13_a":
+    [
+        "DVD: physical/medium",
+        "The DVD has some scratches but looks fine.",
+        "The DVD has won the battle against VHR.",
+        1
+    ],
+    "6_13_b":
+    [
+        "DVD: physical/medium",
+        "The DVD has won the battle against VHR.",
+        "The DVD has some scratches but looks fine.",
+        1
+    ],
+    "6_21_a":
+    [
+        "DVD: content/physical",
+        "The DVD is a low resolution home movie.",
+        "The DVD got stuck in the player yesterday.",
+        1
+    ],
+    "6_21_b":
+    [
+        "DVD: content/physical",
+        "The DVD got stuck in the player yesterday.",
+        "The DVD is a low resolution home movie.",
+        1
+    ],
+    "6_22_a":
+    [
+        "DVD: content/content",
+        "The DVD is a low resolution home movie.",
+        "The DVD wasn't very entertaining somehow.",
+        1
+    ],
+    "6_22_b":
+    [
+        "DVD: content/content",
+        "The DVD wasn't very entertaining somehow.",
+        "The DVD is a low resolution home movie.",
+        1
+    ],
+    "6_23_a":
+    [
+        "DVD: content/medium",
+        "The DVD is a low resolution home movie.",
+        "The DVD has won the battle against VHR.",
+        1
+    ],
+    "6_23_b":
+    [
+        "DVD: content/medium",
+        "The DVD has won the battle against VHR.",
+        "The DVD is a low resolution home movie.",
+        1
+    ],
+    "6_31_a":
+    [
+        "DVD: medium/physical",
+        "The DVD will be replaced by BluRay soon.",
+        "The DVD got stuck in the player yesterday.",
+        1
+    ],
+    "6_31_b":
+    [
+        "DVD: medium/physical",
+        "The DVD got stuck in the player yesterday.",
+        "The DVD will be replaced by BluRay soon.",
+        1
+    ],
+    "6_32_a":
+    [
+        "DVD: medium/content",
+        "The DVD will be replaced by BluRay soon.",
+        "The DVD wasn't very entertaining somehow.",
+        1
+    ],
+    "6_32_b":
+    [
+        "DVD: medium/content",
+        "The DVD wasn't very entertaining somehow.",
+        "The DVD will be replaced by BluRay soon.",
+        1
+    ],
+    "6_33_a":
+    [
+        "DVD: medium/medium",
+        "The DVD will be replaced by BluRay soon.",
+        "The DVD has won the battle against VHR.",
+        1
+    ],
+    "6_33_b":
+    [
+        "DVD: medium/medium",
+        "The DVD has won the battle against VHR.",
+        "The DVD will be replaced by BluRay soon.",
+        1
+    ],
+    "7_11_a":
+    [
+        "chicken: animal/animal",
+        "The chicken picked for some seeds.",
+        "The chicken was seasoned deliciously.",
+        1
+    ],
+    "7_11_b":
+    [
+        "chicken: animal/animal",
+        "The chicken was seasoned deliciously.",
+        "The chicken picked for some seeds.",
+        1
+    ],
+    "7_12_a":
+    [
+        "chicken: animal/meat",
+        "The chicken picked for some seeds.",
+        "The chicken was too dry for my taste.",
+        1
+    ],
+    "7_12_b":
+    [
+        "chicken: animal/meat",
+        "The chicken was too dry for my taste.",
+        "The chicken picked for some seeds.",
+        1
+    ],
+    "7_21_a":
+    [
+        "chicken: meat/animal",
+        "The chicken sat on the roof of the shed.",
+        "The chicken was seasoned deliciously.",
+        1
+    ],
+    "7_21_b":
+    [
+        "chicken: meat/animal",
+        "The chicken was seasoned deliciously.",
+        "The chicken sat on the roof of the shed.",
+        1
+    ],
+    "7_22_a":
+    [
+        "chicken: meat/meat",
+        "The chicken sat on the roof of the shed.",
+        "The chicken was too dry for my taste.",
+        1
+    ],
+    "7_22_b":
+    [
+        "chicken: meat/meat",
+        "The chicken was too dry for my taste.",
+        "The chicken sat on the roof of the shed.",
+        1
+    ],
+    "8_11_a":
+    [
+        "school: building/building",
+        "The school was painted during the holidays.",
+        "The school needs to be renovated soon.",
+        1
+    ],
+    "8_11_b":
+    [
+        "school: building/building",
+        "The school needs to be renovated soon.",
+        "The school was painted during the holidays.",
+        1
+    ],
+    "8_12_a":
+    [
+        "school: building/administration",
+        "The school was painted during the holidays.",
+        "The school informed parents about this year’s events.",
+        1
+    ],
+    "8_12_b":
+    [
+        "school: building/administration",
+        "The school informed parents about this year’s events.",
+        "The school was painted during the holidays.",
+        1
+    ],
+    "8_13_a":
+    [
+        "school: building/institution",
+        "The school was painted during the holidays.",
+        "The school recently got a more modern website.",
+        1
+    ],
+    "8_13_b":
+    [
+        "school: building/institution",
+        "The school recently got a more modern website.",
+        "The school was painted during the holidays.",
+        1
+    ],
+    "8_14_a":
+    [
+        "school: building/students",
+        "The school was painted during the holidays.",
+        "The school went on a field trip last summer.",
+        1
+    ],
+    "8_14_b":
+    [
+        "school: building/students",
+        "The school went on a field trip last summer.",
+        "The school was painted during the holidays.",
+        1
+    ],
+    "8_21_a":
+    [
+        "school: administration/building",
+        "The school requires students to wear a uniform.",
+        "The school needs to be renovated soon.",
+        1
+    ],
+    "8_21_b":
+    [
+        "school: administration/building",
+        "The school needs to be renovated soon.",
+        "The school requires students to wear a uniform.",
+        1
+    ],
+    "8_22_a":
+    [
+        "school: administration/administration",
+        "The school requires students to wear a uniform.",
+        "The school informed parents about this year’s events.",
+        1
+    ],
+    "8_22_b":
+    [
+        "school: administration/administration",
+        "The school informed parents about this year’s events.",
+        "The school requires students to wear a uniform.",
+        1
+    ],
+    "8_23_a":
+    [
+        "school: administration/institution",
+        "The school requires students to wear a uniform.",
+        "The school recently got a more modern website.",
+        1
+    ],
+    "8_23_b":
+    [
+        "school: administration/institution",
+        "The school recently got a more modern website.",
+        "The school requires students to wear a uniform.",
+        1
+    ],
+    "8_24_a":
+    [
+        "school: administration/students",
+        "The school requires students to wear a uniform.",
+        "The school went on a field trip last summer.",
+        1
+    ],
+    "8_24_b":
+    [
+        "school: administration/students",
+        "The school went on a field trip last summer.",
+        "The school requires students to wear a uniform.",
+        1
+    ],
+    "8_31_a":
+    [
+        "school: institution/building",
+        "The school is well respected among researchers.",
+        "The school needs to be renovated soon.",
+        1
+    ],
+    "8_31_b":
+    [
+        "school: institution/building",
+        "The school needs to be renovated soon.",
+        "The school is well respected among researchers.",
+        1
+    ],
+    "8_32_a":
+    [
+        "school: institution/administration",
+        "The school is well respected among researchers.",
+        "The school informed parents about this year’s events.",
+        1
+    ],
+    "8_32_b":
+    [
+        "school: institution/administration",
+        "The school informed parents about this year’s events.",
+        "The school is well respected among researchers.",
+        1
+    ],
+    "8_33_a":
+    [
+        "school: institution/institution",
+        "The school is well respected among researchers.",
+        "The school recently got a more modern website.",
+        1
+    ],
+    "8_33_b":
+    [
+        "school: institution/institution",
+        "The school recently got a more modern website.",
+        "The school is well respected among researchers.",
+        1
+    ],
+    "8_34_a":
+    [
+        "school: institution/students",
+        "The school is well respected among researchers.",
+        "The school went on a field trip last summer.",
+        1
+    ],
+    "8_34_b":
+    [
+        "school: institution/students",
+        "The school went on a field trip last summer.",
+        "The school is well respected among researchers.",
+        1
+    ],
+    "8_41_a":
+    [
+        "school: students/building",
+        "The school developed an important algebraic proof.",
+        "The school needs to be renovated soon.",
+        1
+    ],
+    "8_41_b":
+    [
+        "school: students/building",
+        "The school needs to be renovated soon.",
+        "The school developed an important algebraic proof.",
+        1
+    ],
+    "8_42_a":
+    [
+        "school: students/administration",
+        "The school developed an important algebraic proof.",
+        "The school informed parents about this year’s events.",
+        1
+    ],
+    "8_42_b":
+    [
+        "school: students/administration",
+        "The school informed parents about this year’s events.",
+        "The school developed an important algebraic proof.",
+        1
+    ],
+    "8_43_a":
+    [
+        "school: students/institution",
+        "The school developed an important algebraic proof.",
+        "The school recently got a more modern website.",
+        1
+    ],
+    "8_43_b":
+    [
+        "school: students/institution",
+        "The school recently got a more modern website.",
+        "The school developed an important algebraic proof.",
+        1
+    ],
+    "8_44_a":
+    [
+        "school: students/students",
+        "The school developed an important algebraic proof.",
+        "The school went on a field trip last summer.",
+        1
+    ],
+    "8_44_b":
+    [
+        "school: students/students",
+        "The school went on a field trip last summer.",
+        "The school developed an important algebraic proof.",
+        1
+    ],
+    "9_11_a":
+    [
+        "wine: container/container",
+        "The wine lay in a padded wooden box.",
+        "The wine is a little dusty from storage.",
+        1
+    ],
+    "9_11_b":
+    [
+        "wine: container/container",
+        "The wine is a little dusty from storage.",
+        "The wine lay in a padded wooden box.",
+        1
+    ],
+    "9_12_a":
+    [
+        "wine: container/content",
+        "The wine lay in a padded wooden box.",
+        "The wine tastes great with fish.",
+        1
+    ],
+    "9_12_b":
+    [
+        "wine: container/content",
+        "The wine tastes great with fish.",
+        "The wine lay in a padded wooden box.",
+        1
+    ],
+    "9_21_a":
+    [
+        "wine: content/container",
+        "The wine had a beautiful red tint.",
+        "The wine is a little dusty from storage.",
+        1
+    ],
+    "9_21_b":
+    [
+        "wine: content/container",
+        "The wine is a little dusty from storage.",
+        "The wine had a beautiful red tint.",
+        1
+    ],
+    "9_22_a":
+    [
+        "wine: content/content",
+        "The wine had a beautiful red tint.",
+        "The wine tastes great with fish.",
+        1
+    ],
+    "9_22_b":
+    [
+        "wine: content/content",
+        "The wine tastes great with fish.",
+        "The wine had a beautiful red tint.",
+        1
+    ],
+    "10_11_a":
+    [
+        "glass: container/container",
+        "The glass broke when she dropped it.",
+        "The glass fits about 200 ml of liquid.",
+        1
+    ],
+    "10_11_b":
+    [
+        "glass: container/container",
+        "The glass fits about 200 ml of liquid.",
+        "The glass broke when she dropped it.",
+        1
+    ],
+    "10_12_a":
+    [
+        "glass: container/content",
+        "The glass broke when she dropped it.",
+        "The glass was absolutely refreshing.",
+        1
+    ],
+    "10_12_b":
+    [
+        "glass: container/content",
+        "The glass was absolutely refreshing.",
+        "The glass broke when she dropped it.",
+        1
+    ],
+    "10_21_a":
+    [
+        "glass: content/container",
+        "The glass had a thick layer of foam.",
+        "The glass fits about 200 ml of liquid.",
+        1
+    ],
+    "10_21_b":
+    [
+        "glass: content/container",
+        "The glass fits about 200 ml of liquid.",
+        "The glass had a thick layer of foam.",
+        1
+    ],
+    "10_22_a":
+    [
+        "glass: content/content",
+        "The glass had a thick layer of foam.",
+        "The glass was absolutely refreshing.",
+        1
+    ],
+    "10_22_b":
+    [
+        "glass: content/content",
+        "The glass was absolutely refreshing.",
+        "The glass had a thick layer of foam.",
+        1
+    ],
+    "11_11_a":
+    [
+        "construction: process/process",
+        "The construction took far longer than expected.",
+        "The construction will begin in early September.",
+        1
+    ],
+    "11_11_b":
+    [
+        "construction: process/process",
+        "The construction will begin in early September.",
+        "The construction took far longer than expected.",
+        1
+    ],
+    "11_12_a":
+    [
+        "construction: process/product",
+        "The construction took far longer than expected.",
+        "The construction is larger than most in the city.",
+        1
+    ],
+    "11_12_b":
+    [
+        "construction: process/product",
+        "The construction is larger than most in the city.",
+        "The construction took far longer than expected.",
+        1
+    ],
+    "11_21_a":
+    [
+        "construction: product/process",
+        "The construction has a solid steel frame.",
+        "The construction will begin in early September.",
+        1
+    ],
+    "11_21_b":
+    [
+        "construction: product/process",
+        "The construction will begin in early September.",
+        "The construction has a solid steel frame.",
+        1
+    ],
+    "11_22_a":
+    [
+        "construction: product/product",
+        "The construction has a solid steel frame.",
+        "The construction is larger than most in the city.",
+        1
+    ],
+    "11_22_b":
+    [
+        "construction: product/product",
+        "The construction is larger than most in the city.",
+        "The construction has a solid steel frame.",
+        1
+    ],
+    "12_11_a":
+    [
+        "magazine: organisation/organisation",
+        "The magazine lost a court battle against a former pop star.",
+        "The magazine got into serious money problems last year.",
+        1
+    ],
+    "12_11_b":
+    [
+        "magazine: organisation/organisation",
+        "The magazine got into serious money problems last year.",
+        "The magazine lost a court battle against a former pop star.",
+        1
+    ],
+    "12_12_a":
+    [
+        "magazine: organisation/physical",
+        "The magazine lost a court battle against a former pop star.",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        1
+    ],
+    "12_12_b":
+    [
+        "magazine: organisation/physical",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        "The magazine lost a court battle against a former pop star.",
+        1
+    ],
+    "12_13_a":
+    [
+        "magazine: organisation/content",
+        "The magazine lost a court battle against a former pop star.",
+        "The magazine had a special report on David Guetta’s world tour.",
+        1
+    ],
+    "12_13_b":
+    [
+        "magazine: organisation/content",
+        "The magazine had a special report on David Guetta’s world tour.",
+        "The magazine lost a court battle against a former pop star.",
+        1
+    ],
+    "12_14_a":
+    [
+        "magazine: organisation/storage",
+        "The magazine lost a court battle against a former pop star.",
+        "The magazine was originally designed for storing ballistic missiles.",
+        1
+    ],
+    "12_14_b":
+    [
+        "magazine: organisation/storage",
+        "The magazine was originally designed for storing ballistic missiles.",
+        "The magazine lost a court battle against a former pop star.",
+        1
+    ],
+    "12_21_a":
+    [
+        "magazine: physical/organisation",
+        "The magazine just kept falling off the small living room table.",
+        "The magazine got into serious money problems last year.",
+        1
+    ],
+    "12_21_b":
+    [
+        "magazine: physical/organisation",
+        "The magazine got into serious money problems last year.",
+        "The magazine just kept falling off the small living room table.",
+        1
+    ],
+    "12_22_a":
+    [
+        "magazine: physical/physical",
+        "The magazine just kept falling off the small living room table.",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        1
+    ],
+    "12_22_b":
+    [
+        "magazine: physical/physical",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        "The magazine just kept falling off the small living room table.",
+        1
+    ],
+    "12_23_a":
+    [
+        "magazine: physical/content",
+        "The magazine just kept falling off the small living room table.",
+        "The magazine had a special report on David Guetta’s world tour.",
+        1
+    ],
+    "12_23_b":
+    [
+        "magazine: physical/content",
+        "The magazine had a special report on David Guetta’s world tour.",
+        "The magazine just kept falling off the small living room table.",
+        1
+    ],
+    "12_24_a":
+    [
+        "magazine: physical/storage",
+        "The magazine just kept falling off the small living room table.",
+        "The magazine was originally designed for storing ballistic missiles.",
+        1
+    ],
+    "12_24_b":
+    [
+        "magazine: physical/storage",
+        "The magazine was originally designed for storing ballistic missiles.",
+        "The magazine just kept falling off the small living room table.",
+        1
+    ],
+    "12_31_a":
+    [
+        "magazine: content/organisation",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        "The magazine got into serious money problems last year.",
+        1
+    ],
+    "12_31_b":
+    [
+        "magazine: content/organisation",
+        "The magazine got into serious money problems last year.",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        1
+    ],
+    "12_32_a":
+    [
+        "magazine: content/physical",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        1
+    ],
+    "12_32_b":
+    [
+        "magazine: content/physical",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        1
+    ],
+    "12_33_a":
+    [
+        "magazine: content/content",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        "The magazine had a special report on David Guetta’s world tour.",
+        1
+    ],
+    "12_33_b":
+    [
+        "magazine: content/content",
+        "The magazine had a special report on David Guetta’s world tour.",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        1
+    ],
+    "12_34_a":
+    [
+        "magazine: content/storage",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        "The magazine was originally designed for storing ballistic missiles.",
+        1
+    ],
+    "12_34_b":
+    [
+        "magazine: content/storage",
+        "The magazine was originally designed for storing ballistic missiles.",
+        "The magazine featured a two-page poster of Justin Timberlake.",
+        1
+    ],
+    "12_41_a":
+    [
+        "magazine: storage/organisation",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        "The magazine got into serious money problems last year.",
+        1
+    ],
+    "12_41_b":
+    [
+        "magazine: storage/organisation",
+        "The magazine got into serious money problems last year.",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        1
+    ],
+    "12_42_a":
+    [
+        "magazine: storage/physical",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        1
+    ],
+    "12_42_b":
+    [
+        "magazine: storage/physical",
+        "The magazine was covered in paw prints after a cat sat on it.",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        1
+    ],
+    "12_43_a":
+    [
+        "magazine: storage/content",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        "The magazine had a special report on David Guetta’s world tour.",
+        1
+    ],
+    "12_43_b":
+    [
+        "magazine: storage/content",
+        "The magazine had a special report on David Guetta’s world tour.",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        1
+    ],
+    "12_44_a":
+    [
+        "magazine: storage/storage",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        "The magazine was originally designed for storing ballistic missiles.",
+        1
+    ],
+    "12_44_b":
+    [
+        "magazine: storage/storage",
+        "The magazine was originally designed for storing ballistic missiles.",
+        "The magazine contained all kinds of defunct WW2 weaponry.",
+        1
+    ],
+    "13_11_a":
+    [
+        "CD: physical/physical",
+        "The CD had a hand-written label that was very difficult to read.",
+        "The CD was badly scratched because of the cheap case.",
+        1
+    ],
+    "13_11_b":
+    [
+        "CD: physical/physical",
+        "The CD was badly scratched because of the cheap case.",
+        "The CD had a hand-written label that was very difficult to read.",
+        1
+    ],
+    "13_12_a":
+    [
+        "CD: physical/medium",
+        "The CD had a hand-written label that was very difficult to read.",
+        "The CD revolutionised how people listened to music at home.",
+        1
+    ],
+    "13_12_b":
+    [
+        "CD: physical/medium",
+        "The CD revolutionised how people listened to music at home.",
+        "The CD had a hand-written label that was very difficult to read.",
+        1
+    ],
+    "13_13_a":
+    [
+        "CD: physical/content",
+        "The CD had a hand-written label that was very difficult to read.",
+        "The CD was a lot more fun to listen to on headphones.",
+        1
+    ],
+    "13_13_b":
+    [
+        "CD: physical/content",
+        "The CD was a lot more fun to listen to on headphones.",
+        "The CD had a hand-written label that was very difficult to read.",
+        1
+    ],
+    "13_21_a":
+    [
+        "CD: medium/physical",
+        "The CD has a much higher audio quality than the cassette tape.",
+        "The CD was badly scratched because of the cheap case.",
+        1
+    ],
+    "13_21_b":
+    [
+        "CD: medium/physical",
+        "The CD was badly scratched because of the cheap case.",
+        "The CD has a much higher audio quality than the cassette tape.",
+        1
+    ],
+    "13_22_a":
+    [
+        "CD: medium/medium",
+        "The CD has a much higher audio quality than the cassette tape.",
+        "The CD revolutionised how people listened to music at home.",
+        1
+    ],
+    "13_22_b":
+    [
+        "CD: medium/medium",
+        "The CD revolutionised how people listened to music at home.",
+        "The CD has a much higher audio quality than the cassette tape.",
+        1
+    ],
+    "13_23_a":
+    [
+        "CD: medium/content",
+        "The CD has a much higher audio quality than the cassette tape.",
+        "The CD was a lot more fun to listen to on headphones.",
+        1
+    ],
+    "13_23_b":
+    [
+        "CD: medium/content",
+        "The CD was a lot more fun to listen to on headphones.",
+        "The CD has a much higher audio quality than the cassette tape.",
+        1
+    ],
+    "13_31_a":
+    [
+        "CD: content/physical",
+        "The CD sounded like an eclectic mixture of different musical styles.",
+        "The CD was badly scratched because of the cheap case.",
+        1
+    ],
+    "13_31_b":
+    [
+        "CD: content/physical",
+        "The CD was badly scratched because of the cheap case.",
+        "The CD sounded like an eclectic mixture of different musical styles.",
+        1
+    ],
+    "13_32_a":
+    [
+        "CD: content/medium",
+        "The CD sounded like an eclectic mixture of different musical styles.",
+        "The CD revolutionised how people listened to music at home.",
+        1
+    ],
+    "13_32_b":
+    [
+        "CD: content/medium",
+        "The CD revolutionised how people listened to music at home.",
+        "The CD sounded like an eclectic mixture of different musical styles.",
+        1
+    ],
+    "13_33_a":
+    [
+        "CD: content/content",
+        "The CD sounded like an eclectic mixture of different musical styles.",
+        "The CD was a lot more fun to listen to on headphones.",
+        1
+    ],
+    "13_33_b":
+    [
+        "CD: content/content",
+        "The CD was a lot more fun to listen to on headphones.",
+        "The CD sounded like an eclectic mixture of different musical styles.",
+        1
+    ],
+    "14_11_a":
+    [
+        "photograph: physical/physical",
+        "The photograph was torn in two after a heavy fight last night.",
+        "The photograph looked like it was kept in a wallet for a long time.",
+        1
+    ],
+    "14_11_b":
+    [
+        "photograph: physical/physical",
+        "The photograph looked like it was kept in a wallet for a long time.",
+        "The photograph was torn in two after a heavy fight last night.",
+        1
+    ],
+    "14_12_a":
+    [
+        "photograph: physical/content",
+        "The photograph was torn in two after a heavy fight last night.",
+        "The photograph must have been taken sometime around 1975.",
+        1
+    ],
+    "14_12_b":
+    [
+        "photograph: physical/content",
+        "The photograph must have been taken sometime around 1975.",
+        "The photograph was torn in two after a heavy fight last night.",
+        1
+    ],
+    "14_21_a":
+    [
+        "photograph: content/physical",
+        "The photograph showed a young couple next to a new car.",
+        "The photograph looked like it was kept in a wallet for a long time.",
+        1
+    ],
+    "14_21_b":
+    [
+        "photograph: content/physical",
+        "The photograph looked like it was kept in a wallet for a long time.",
+        "The photograph showed a young couple next to a new car.",
+        1
+    ],
+    "14_22_a":
+    [
+        "photograph: content/content",
+        "The photograph showed a young couple next to a new car.",
+        "The photograph must have been taken sometime around 1975.",
+        1
+    ],
+    "14_22_b":
+    [
+        "photograph: content/content",
+        "The photograph must have been taken sometime around 1975.",
+        "The photograph showed a young couple next to a new car.",
+        1
+    ],
+    "15_11_a":
+    [
+        "book: physical/physical",
+        "The book had a leather dust jacket with embossed gold lettering.",
+        "The book had been used to prop open the old office door.",
+        1
+    ],
+    "15_11_b":
+    [
+        "book: physical/physical",
+        "The book had been used to prop open the old office door.",
+        "The book had a leather dust jacket with embossed gold lettering.",
+        1
+    ],
+    "15_12_a":
+    [
+        "book: physical/content",
+        "The book had a leather dust jacket with embossed gold lettering.",
+        "The book was one of the first science-fiction stories ever to be written.",
+        1
+    ],
+    "15_12_b":
+    [
+        "book: physical/content",
+        "The book was one of the first science-fiction stories ever to be written.",
+        "The book had a leather dust jacket with embossed gold lettering.",
+        1
+    ],
+    "15_21_a":
+    [
+        "book: content/physical",
+        "The book follows the adventures of the fictional captain Nemo.",
+        "The book had been used to prop open the old office door.",
+        1
+    ],
+    "15_21_b":
+    [
+        "book: content/physical",
+        "The book had been used to prop open the old office door.",
+        "The book follows the adventures of the fictional captain Nemo.",
+        1
+    ],
+    "15_22_a":
+    [
+        "book: content/content",
+        "The book follows the adventures of the fictional captain Nemo.",
+        "The book was one of the first science-fiction stories ever to be written.",
+        1
+    ],
+    "15_22_b":
+    [
+        "book: content/content",
+        "The book was one of the first science-fiction stories ever to be written.",
+        "The book follows the adventures of the fictional captain Nemo.",
+        1
+    ],
+    "16_11_a":
+    [
+        "chicken: animal/animal",
+        "The chicken pecked for some food pellets in the new feeder.",
+        "The chicken sat on the roof of the coop all afternoon long.",
+        1
+    ],
+    "16_11_b":
+    [
+        "chicken: animal/animal",
+        "The chicken sat on the roof of the coop all afternoon long.",
+        "The chicken pecked for some food pellets in the new feeder.",
+        1
+    ],
+    "16_12_a":
+    [
+        "chicken: animal/meat",
+        "The chicken pecked for some food pellets in the new feeder.",
+        "The chicken tasted like it had been marinated for at least 12 hours.",
+        1
+    ],
+    "16_12_b":
+    [
+        "chicken: animal/meat",
+        "The chicken tasted like it had been marinated for at least 12 hours.",
+        "The chicken pecked for some food pellets in the new feeder.",
+        1
+    ],
+    "16_21_a":
+    [
+        "chicken: meat/animal",
+        "The chicken was served with steaming hot potato wedges.",
+        "The chicken sat on the roof of the coop all afternoon long.",
+        1
+    ],
+    "16_21_b":
+    [
+        "chicken: meat/animal",
+        "The chicken sat on the roof of the coop all afternoon long.",
+        "The chicken was served with steaming hot potato wedges.",
+        1
+    ],
+    "16_22_a":
+    [
+        "chicken: meat/meat",
+        "The chicken was served with steaming hot potato wedges.",
+        "The chicken tasted like it had been marinated for at least 12 hours.",
+        1
+    ],
+    "16_22_b":
+    [
+        "chicken: meat/meat",
+        "The chicken tasted like it had been marinated for at least 12 hours.",
+        "The chicken was served with steaming hot potato wedges.",
+        1
+    ],
+    "16_31_a":
+    [
+        "chicken: animal+/animal",
+        "The chicken was bred by a well-known family of poultry breeders.",
+        "The chicken sat on the roof of the coop all afternoon long.",
+        1
+    ],
+    "16_31_b":
+    [
+        "chicken: animal+/animal",
+        "The chicken sat on the roof of the coop all afternoon long.",
+        "The chicken was bred by a well-known family of poultry breeders.",
+        1
+    ],
+    "16_32_a":
+    [
+        "chicken: animal+/meat",
+        "The chicken was bred by a well-known family of poultry breeders.",
+        "The chicken tasted like it had been marinated for at least 12 hours.",
+        1
+    ],
+    "16_32_b":
+    [
+        "chicken: animal+/meat",
+        "The chicken tasted like it had been marinated for at least 12 hours.",
+        "The chicken was bred by a well-known family of poultry breeders.",
+        1
+    ],
+    "17_11_a":
+    [
+        "pheasant: animal/animal",
+        "The pheasant definitely gave the hunters a run for their money.",
+        "The pheasant was foraging for some seeds on a small clearing.",
+        1
+    ],
+    "17_11_b":
+    [
+        "pheasant: animal/animal",
+        "The pheasant was foraging for some seeds on a small clearing.",
+        "The pheasant definitely gave the hunters a run for their money.",
+        1
+    ],
+    "17_12_a":
+    [
+        "pheasant: animal/meat",
+        "The pheasant definitely gave the hunters a run for their money.",
+        "The pheasant tasted much better than anything he’d ever eaten.",
+        1
+    ],
+    "17_12_b":
+    [
+        "pheasant: animal/meat",
+        "The pheasant tasted much better than anything he’d ever eaten.",
+        "The pheasant definitely gave the hunters a run for their money.",
+        1
+    ],
+    "17_21_a":
+    [
+        "pheasant: meat/animal",
+        "The pheasant was marinated in milk over night to make it tender.",
+        "The pheasant was foraging for some seeds on a small clearing.",
+        1
+    ],
+    "17_21_b":
+    [
+        "pheasant: meat/animal",
+        "The pheasant was foraging for some seeds on a small clearing.",
+        "The pheasant was marinated in milk over night to make it tender.",
+        1
+    ],
+    "17_22_a":
+    [
+        "pheasant: meat/meat",
+        "The pheasant was marinated in milk over night to make it tender.",
+        "The pheasant tasted much better than anything he’d ever eaten.",
+        1
+    ],
+    "17_22_b":
+    [
+        "pheasant: meat/meat",
+        "The pheasant tasted much better than anything he’d ever eaten.",
+        "The pheasant was marinated in milk over night to make it tender.",
+        1
+    ],
+    "17_31_a":
+    [
+        "pheasant: animal+/animal",
+        "The pheasant had been shot by an experienced hunter with a long rifle.",
+        "The pheasant was foraging for some seeds on a small clearing.",
+        1
+    ],
+    "17_31_b":
+    [
+        "pheasant: animal+/animal",
+        "The pheasant was foraging for some seeds on a small clearing.",
+        "The pheasant had been shot by an experienced hunter with a long rifle.",
+        1
+    ],
+    "17_32_a":
+    [
+        "pheasant: animal+/meat",
+        "The pheasant had been shot by an experienced hunter with a long rifle.",
+        "The pheasant tasted much better than anything he’d ever eaten.",
+        1
+    ],
+    "17_32_b":
+    [
+        "pheasant: animal+/meat",
+        "The pheasant tasted much better than anything he’d ever eaten.",
+        "The pheasant had been shot by an experienced hunter with a long rifle.",
+        1
+    ],
+    "18_11_a":
+    [
+        "lamb: animal/animal",
+        "The lamb used to get stuck when trying to jump through the fence.",
+        "The lamb was fed with a milk bottle after its mother rejected it.",
+        1
+    ],
+    "18_11_b":
+    [
+        "lamb: animal/animal",
+        "The lamb was fed with a milk bottle after its mother rejected it.",
+        "The lamb used to get stuck when trying to jump through the fence.",
+        1
+    ],
+    "18_12_a":
+    [
+        "lamb: animal/meat",
+        "The lamb used to get stuck when trying to jump through the fence.",
+        "The lamb easily was my favourite dish at the banquet.",
+        1
+    ],
+    "18_12_b":
+    [
+        "lamb: animal/meat",
+        "The lamb easily was my favourite dish at the banquet.",
+        "The lamb used to get stuck when trying to jump through the fence.",
+        1
+    ],
+    "18_21_a":
+    [
+        "lamb: meat/animal",
+        "The lamb was seasoned to perfection by the head chef.",
+        "The lamb was fed with a milk bottle after its mother rejected it.",
+        1
+    ],
+    "18_21_b":
+    [
+        "lamb: meat/animal",
+        "The lamb was fed with a milk bottle after its mother rejected it.",
+        "The lamb was seasoned to perfection by the head chef.",
+        1
+    ],
+    "18_22_a":
+    [
+        "lamb: meat/meat",
+        "The lamb was seasoned to perfection by the head chef.",
+        "The lamb easily was my favourite dish at the banquet.",
+        1
+    ],
+    "18_22_b":
+    [
+        "lamb: meat/meat",
+        "The lamb easily was my favourite dish at the banquet.",
+        "The lamb was seasoned to perfection by the head chef.",
+        1
+    ],
+    "18_31_a":
+    [
+        "lamb: animal+/animal",
+        "The lamb had been bred in the most animal-friendly way possible.",
+        "The lamb was fed with a milk bottle after its mother rejected it.",
+        1
+    ],
+    "18_31_b":
+    [
+        "lamb: animal+/animal",
+        "The lamb was fed with a milk bottle after its mother rejected it.",
+        "The lamb had been bred in the most animal-friendly way possible.",
+        1
+    ],
+    "18_32_a":
+    [
+        "lamb: animal+/meat",
+        "The lamb had been bred in the most animal-friendly way possible.",
+        "The lamb easily was my favourite dish at the banquet.",
+        1
+    ],
+    "18_32_b":
+    [
+        "lamb: animal+/meat",
+        "The lamb easily was my favourite dish at the banquet.",
+        "The lamb had been bred in the most animal-friendly way possible.",
+        1
+    ],
+    "19_11_a":
+    [
+        "seagull: animal/animal",
+        "The seagull kept circling over a food stall near the promenade.",
+        "The seagull stole a sandwich from an unsuspecting beachgoer.",
+        1
+    ],
+    "19_11_b":
+    [
+        "seagull: animal/animal",
+        "The seagull stole a sandwich from an unsuspecting beachgoer.",
+        "The seagull kept circling over a food stall near the promenade.",
+        1
+    ],
+    "19_12_a":
+    [
+        "seagull: animal/meat",
+        "The seagull kept circling over a food stall near the promenade.",
+        "The seagull had been roasted on a spit over a makeshift campfire.",
+        1
+    ],
+    "19_12_b":
+    [
+        "seagull: animal/meat",
+        "The seagull had been roasted on a spit over a makeshift campfire.",
+        "The seagull kept circling over a food stall near the promenade.",
+        1
+    ],
+    "19_21_a":
+    [
+        "seagull: meat/animal",
+        "The seagull definitely tasted better than anyone could have imagined.",
+        "The seagull stole a sandwich from an unsuspecting beachgoer.",
+        1
+    ],
+    "19_21_b":
+    [
+        "seagull: meat/animal",
+        "The seagull stole a sandwich from an unsuspecting beachgoer.",
+        "The seagull definitely tasted better than anyone could have imagined.",
+        1
+    ],
+    "19_22_a":
+    [
+        "seagull: meat/meat",
+        "The seagull definitely tasted better than anyone could have imagined.",
+        "The seagull had been roasted on a spit over a makeshift campfire.",
+        1
+    ],
+    "19_22_b":
+    [
+        "seagull: meat/meat",
+        "The seagull had been roasted on a spit over a makeshift campfire.",
+        "The seagull definitely tasted better than anyone could have imagined.",
+        1
+    ],
+    "19_31_a":
+    [
+        "seagull: animal+/animal",
+        "The seagull was the only thing they were able to catch that day.",
+        "The seagull stole a sandwich from an unsuspecting beachgoer.",
+        1
+    ],
+    "19_31_b":
+    [
+        "seagull: animal+/animal",
+        "The seagull stole a sandwich from an unsuspecting beachgoer.",
+        "The seagull was the only thing they were able to catch that day.",
+        1
+    ],
+    "19_32_a":
+    [
+        "seagull: animal+/meat",
+        "The seagull was the only thing they were able to catch that day.",
+        "The seagull had been roasted on a spit over a makeshift campfire.",
+        1
+    ],
+    "19_32_b":
+    [
+        "seagull: animal+/meat",
+        "The seagull had been roasted on a spit over a makeshift campfire.",
+        "The seagull was the only thing they were able to catch that day.",
+        1
+    ],
+    
+    "20_11_a":
+    [
+        "dinner: event/event",
+        "The dinner was the highlight of the celebrations yesterday.",
+        "The dinner was held at the restaurant of the Four Seasons Hotel.",
+        1
+    ],
+    "20_11_b":
+    [
+        "dinner: event/event",
+        "The dinner was held at the restaurant of the Four Seasons Hotel.",
+        "The dinner was the highlight of the celebrations yesterday.",
+        1
+    ],
+    "20_12_a":
+    [
+        "dinner: event/food",
+        "The dinner was the highlight of the celebrations yesterday.",
+        "The dinner got cold while everyone waited for the speeches to be over.",
+        1
+    ],
+    "20_12_b":
+    [
+        "dinner: event/food",
+        "The dinner got cold while everyone waited for the speeches to be over.",
+        "The dinner was the highlight of the celebrations yesterday.",
+        1
+    ],
+    "20_21_a":
+    [
+        "dinner: food/event",
+        "The dinner tasted like it was microwaved leftovers from the day before.",
+        "The dinner was held at the restaurant of the Four Seasons Hotel.",
+        1
+    ],
+    "20_21_b":
+    [
+        "dinner: food/event",
+        "The dinner was held at the restaurant of the Four Seasons Hotel.",
+        "The dinner tasted like it was microwaved leftovers from the day before.",
+        1
+    ],
+    "20_22_a":
+    [
+        "dinner: food/food",
+        "The dinner tasted like it was microwaved leftovers from the day before.",
+        "The dinner got cold while everyone waited for the speeches to be over.",
+        1
+    ],
+    "20_22_b":
+    [
+        "dinner: food/food",
+        "The dinner got cold while everyone waited for the speeches to be over.",
+        "The dinner tasted like it was microwaved leftovers from the day before.",
+        1
+    ],
+    "21_11_a":
+    [
+        "door: opening/opening",
+        "The door was just large enough for Tom to squeeze through.",
+        "The door let some light into the otherwise pitch-black room.",
+        1
+    ],
+    "21_11_b":
+    [
+        "door: opening/opening",
+        "The door let some light into the otherwise pitch-black room.",
+        "The door was just large enough for Tom to squeeze through.",
+        1
+    ],
+    "21_12_a":
+    [
+        "door: opening/physical",
+        "The door was just large enough for Tom to squeeze through.",
+        "The door was painted with multiple layers of battleship grey.",
+        1
+    ],
+    "21_12_b":
+    [
+        "door: opening/physical",
+        "The door was painted with multiple layers of battleship grey.",
+        "The door was just large enough for Tom to squeeze through.",
+        1
+    ],
+    "21_21_a":
+    [
+        "door: physical/opening",
+        "The door felt so heavy that it could withstand an atomic blast.",
+        "The door let some light into the otherwise pitch-black room.",
+        1
+    ],
+    "21_21_b":
+    [
+        "door: physical/opening",
+        "The door let some light into the otherwise pitch-black room.",
+        "The door felt so heavy that it could withstand an atomic blast.",
+        1
+    ],
+    "21_22_a":
+    [
+        "door: physical/physical",
+        "The door felt so heavy that it could withstand an atomic blast.",
+        "The door was painted with multiple layers of battleship grey.",
+        1
+    ],
+    "21_22_b":
+    [
+        "door: physical/physical",
+        "The door was painted with multiple layers of battleship grey.",
+        "The door felt so heavy that it could withstand an atomic blast.",
+        1
+    ],
+    "22_11_a":
+    [
+        "window: opening/opening",
+        "The window offered a great view of the nearby town centre.",
+        "The window was the only source of fresh air for the stuffy office.",
+        1
+    ],
+    "22_11_b":
+    [
+        "window: opening/opening",
+        "The window was the only source of fresh air for the stuffy office.",
+        "The window offered a great view of the nearby town centre.",
+        1
+    ],
+    "22_12_a":
+    [
+        "window: opening/physical",
+        "The window offered a great view of the nearby town centre.",
+        "The window was made out of four equally large rectangular panes.",
+        1
+    ],
+    "22_12_b":
+    [
+        "window: opening/physical",
+        "The window was made out of four equally large rectangular panes.",
+        "The window offered a great view of the nearby town centre.",
+        1
+    ],
+    "22_21_a":
+    [
+        "window: physical/opening",
+        "The window shattered when a gas tank exploded at a factory nearby.",
+        "The window was the only source of fresh air for the stuffy office.",
+        1
+    ],
+    "22_21_b":
+    [
+        "window: physical/opening",
+        "The window was the only source of fresh air for the stuffy office.",
+        "The window shattered when a gas tank exploded at a factory nearby.",
+        1
+    ],
+    "22_22_a":
+    [
+        "window: physical/physical",
+        "The window shattered when a gas tank exploded at a factory nearby.",
+        "The window was made out of four equally large rectangular panes.",
+        1
+    ],
+    "22_22_b":
+    [
+        "window: physical/physical",
+        "The window was made out of four equally large rectangular panes.",
+        "The window shattered when a gas tank exploded at a factory nearby.",
+        1
+    ],
+    "23_11_a":
+    [
+        "settlement: process/process",
+        "The settlement took place after the region was declared neutral territory",
+        "The settlement was widely considered to be an act of political protest.",
+        1
+    ],
+    "23_11_b":
+    [
+        "settlement: process/process",
+        "The settlement was widely considered to be an act of political protest.",
+        "The settlement took place after the region was declared neutral territory",
+        1
+    ],
+    "23_12_a":
+    [
+        "settlement: process/result",
+        "The settlement took place after the region was declared neutral territory",
+        "The settlement included a convenience store offering regional products.",
+        1
+    ],
+    "23_12_b":
+    [
+        "settlement: process/result",
+        "The settlement included a convenience store offering regional products.",
+        "The settlement took place after the region was declared neutral territory",
+        1
+    ],
+    "23_21_a":
+    [
+        "settlement: result/process",
+        "The settlement was home to more than 20 families from all over the country.",
+        "The settlement was widely considered to be an act of political protest.",
+        1
+    ],
+    "23_21_b":
+    [
+        "settlement: result/process",
+        "The settlement was widely considered to be an act of political protest.",
+        "The settlement was home to more than 20 families from all over the country.",
+        1
+    ],
+    "23_22_a":
+    [
+        "settlement: result/result",
+        "The settlement was home to more than 20 families from all over the country.",
+        "The settlement included a convenience store offering regional products.",
+        1
+    ],
+    "23_22_b":
+    [
+        "settlement: result/result",
+        "The settlement included a convenience store offering regional products.",
+        "The settlement was home to more than 20 families from all over the country.",
+        1
+    ],
+    "24_11_a":
+    [
+        "building: process/process",
+        "The building took ten years longer than was originally planned.",
+        "The building was carried out by three construction companies.",
+        1
+    ],
+    "24_11_b":
+    [
+        "building: process/process",
+        "The building was carried out by three construction companies.",
+        "The building took ten years longer than was originally planned.",
+        1
+    ],
+    "24_12_a":
+    [
+        "building: process/result",
+        "The building took ten years longer than was originally planned.",
+        "The building housed a number of internationally acclaimed law firms.",
+        1
+    ],
+    "24_12_b":
+    [
+        "building: process/result",
+        "The building housed a number of internationally acclaimed law firms.",
+        "The building took ten years longer than was originally planned.",
+        1
+    ],
+    "24_21_a":
+    [
+        "building: result/process",
+        "The building was located at one of the busiest squares in the city.",
+        "The building was carried out by three construction companies.",
+        1
+    ],
+    "24_21_b":
+    [
+        "building: result/process",
+        "The building was carried out by three construction companies.",
+        "The building was located at one of the busiest squares in the city.",
+        1
+    ],
+    "24_22_a":
+    [
+        "building: result/result",
+        "The building was located at one of the busiest squares in the city.",
+        "The building housed a number of internationally acclaimed law firms.",
+        1
+    ],
+    "24_22_b":
+    [
+        "building: result/result",
+        "The building housed a number of internationally acclaimed law firms.",
+        "The building was located at one of the busiest squares in the city.",
+        1
+    ],
+    "25_11_a":
+    [
+        "bank: institution/institution",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        1
+    ],
+    "25_11_b":
+    [
+        "bank: institution/institution",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        1
+    ],
+    "25_12_a":
+    [
+        "bank: institution/building",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        1
+    ],
+    "25_12_b":
+    [
+        "bank: institution/building",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        1
+    ],
+    "25_13_a":
+    [
+        "bank: institution/branch",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        1
+    ],
+    "25_13_b":
+    [
+        "bank: institution/branch",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        1
+    ],
+    "25_14_a":
+    [
+        "bank: institution/landscape",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        "The bank had formed by sand accumulating due to a changed current.",
+        1
+    ],
+    "25_14_b":
+    [
+        "bank: institution/landscape",
+        "The bank had formed by sand accumulating due to a changed current.",
+        "The bank had to pay millions in fines after a money laundering scandal.",
+        1
+    ],
+    "25_21_a":
+    [
+        "bank: building/institution",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        1
+    ],
+    "25_21_b":
+    [
+        "bank: building/institution",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        1
+    ],
+    "25_22_a":
+    [
+        "bank: building/building",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        1
+    ],
+    "25_22_b":
+    [
+        "bank: building/building",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        1
+    ],
+    "25_23_a":
+    [
+        "bank: building/branch",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        1
+    ],
+    "25_23_b":
+    [
+        "bank: building/branch",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        1
+    ],
+    "25_24_a":
+    [
+        "bank: building/landscape",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        "The bank had formed by sand accumulating due to a changed current.",
+        1
+    ],
+    "25_24_b":
+    [
+        "bank: building/landscape",
+        "The bank had formed by sand accumulating due to a changed current.",
+        "The bank was damaged during an attempted robbery involving explosives.",
+        1
+    ],
+    "25_31_a":
+    [
+        "bank: branch/institution",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        1
+    ],
+    "25_31_b":
+    [
+        "bank: branch/institution",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        1
+    ],
+    "25_32_a":
+    [
+        "bank: branch/building",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        1
+    ],
+    "25_32_b":
+    [
+        "bank: branch/building",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        1
+    ],
+    "25_33_a":
+    [
+        "bank: branch/branch",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        1
+    ],
+    "25_33_b":
+    [
+        "bank: branch/branch",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        1
+    ],
+    "25_34_a":
+    [
+        "bank: branch/landscape",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        "The bank had formed by sand accumulating due to a changed current.",
+        1
+    ],
+    "25_34_b":
+    [
+        "bank: branch/landscape",
+        "The bank had formed by sand accumulating due to a changed current.",
+        "The bank gave a loan to Franklin so he could start a small business.",
+        1
+    ],
+    "25_41_a":
+    [
+        "bank: landscape/institution",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        1
+    ],
+    "25_41_b":
+    [
+        "bank: landscape/institution",
+        "The bank started an advertisement campaign to appeal to younger clients.",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        1
+    ],
+    "25_42_a":
+    [
+        "bank: landscape/building",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        1
+    ],
+    "25_42_b":
+    [
+        "bank: landscape/building",
+        "The bank had a beautiful facade with 19th-century Victorian design elements.",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        1
+    ],
+    "25_43_a":
+    [
+        "bank: landscape/branch",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        1
+    ],
+    "25_43_b":
+    [
+        "bank: landscape/branch",
+        "The bank hired a handyman to take care of the leak in the bathroom.",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        1
+    ],
+    "25_44_a":
+    [
+        "bank: landscape/landscape",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        "The bank had formed by sand accumulating due to a changed current.",
+        1
+    ],
+    "25_44_b":
+    [
+        "bank: landscape/landscape",
+        "The bank had formed by sand accumulating due to a changed current.",
+        "The bank wasn’t marked on any of the commonly used nautical maps.",
+        1
+    ],
+    "26_11_a":
+    [
+        "university: building/building",
+        "The university had been badly damaged during a flood two years ago.",
+        "The university was in dire need of some professional restoration.",
+        1
+    ],
+    "26_11_b":
+    [
+        "university: building/building",
+        "The university was in dire need of some professional restoration.",
+        "The university had been badly damaged during a flood two years ago.",
+        1
+    ],
+    "26_12_a":
+    [
+        "university: building/directorate",
+        "The university had been badly damaged during a flood two years ago.",
+        "The university rescheduled the date for the diploma ceremony.",
+        1
+    ],
+    "26_12_b":
+    [
+        "university: building/directorate",
+        "The university rescheduled the date for the diploma ceremony.",
+        "The university had been badly damaged during a flood two years ago.",
+        1
+    ],
+    "26_13_a":
+    [
+        "university: building/team",
+        "The university had been badly damaged during a flood two years ago.",
+        "The university won over two thirds of last season’s basketball matches.",
+        1
+    ],
+    "26_13_b":
+    [
+        "university: building/team",
+        "The university won over two thirds of last season’s basketball matches.",
+        "The university had been badly damaged during a flood two years ago.",
+        1
+    ],
+    "26_14_a":
+    [
+        "university: building/institute",
+        "The university had been badly damaged during a flood two years ago.",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        1
+    ],
+    "26_14_b":
+    [
+        "university: building/institute",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        "The university had been badly damaged during a flood two years ago.",
+        1
+    ],
+    "26_21_a":
+    [
+        "university: directorate/building",
+        "The university banned radio-controlled drones after an accident.",
+        "The university was in dire need of some professional restoration.",
+        1
+    ],
+    "26_21_b":
+    [
+        "university: directorate/building",
+        "The university was in dire need of some professional restoration.",
+        "The university banned radio-controlled drones after an accident.",
+        1
+    ],
+    "26_22_a":
+    [
+        "university: directorate/directorate",
+        "The university banned radio-controlled drones after an accident.",
+        "The university rescheduled the date for the diploma ceremony.",
+        1
+    ],
+    "26_22_b":
+    [
+        "university: directorate/directorate",
+        "The university rescheduled the date for the diploma ceremony.",
+        "The university banned radio-controlled drones after an accident.",
+        1
+    ],
+    "26_23_a":
+    [
+        "university: directorate/team",
+        "The university banned radio-controlled drones after an accident.",
+        "The university won over two thirds of last season’s basketball matches.",
+        1
+    ],
+    "26_23_b":
+    [
+        "university: directorate/team",
+        "The university won over two thirds of last season’s basketball matches.",
+        "The university banned radio-controlled drones after an accident.",
+        1
+    ],
+    "26_24_a":
+    [
+        "university: directorate/institute",
+        "The university banned radio-controlled drones after an accident.",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        1
+    ],
+    "26_24_b":
+    [
+        "university: directorate/institute",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        "The university banned radio-controlled drones after an accident.",
+        1
+    ],
+    "26_31_a":
+    [
+        "university: team/building",
+        "The university had the best chances of winning the college trophy.",
+        "The university was in dire need of some professional restoration.",
+        1
+    ],
+    "26_31_b":
+    [
+        "university: team/building",
+        "The university was in dire need of some professional restoration.",
+        "The university had the best chances of winning the college trophy.",
+        1
+    ],
+    "26_32_a":
+    [
+        "university: team/directorate",
+        "The university had the best chances of winning the college trophy.",
+        "The university rescheduled the date for the diploma ceremony.",
+        1
+    ],
+    "26_32_b":
+    [
+        "university: team/directorate",
+        "The university rescheduled the date for the diploma ceremony.",
+        "The university had the best chances of winning the college trophy.",
+        1
+    ],
+    "26_33_a":
+    [
+        "university: team/team",
+        "The university had the best chances of winning the college trophy.",
+        "The university won over two thirds of last season’s basketball matches.",
+        1
+    ],
+    "26_33_b":
+    [
+        "university: team/team",
+        "The university won over two thirds of last season’s basketball matches.",
+        "The university had the best chances of winning the college trophy.",
+        1
+    ],
+    "26_34_a":
+    [
+        "university: team/institute",
+        "The university had the best chances of winning the college trophy.",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        1
+    ],
+    "26_34_b":
+    [
+        "university: team/institute",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        "The university had the best chances of winning the college trophy.",
+        1
+    ],
+    "26_41_a":
+    [
+        "university: institute/building",
+        "The university was well respected for its research in theoretical physics.",
+        "The university was in dire need of some professional restoration.",
+        1
+    ],
+    "26_41_b":
+    [
+        "university: institute/building",
+        "The university was in dire need of some professional restoration.",
+        "The university was well respected for its research in theoretical physics.",
+        1
+    ],
+    "26_42_a":
+    [
+        "university: institute/directorate",
+        "The university was well respected for its research in theoretical physics.",
+        "The university rescheduled the date for the diploma ceremony.",
+        1
+    ],
+    "26_42_b":
+    [
+        "university: institute/directorate",
+        "The university rescheduled the date for the diploma ceremony.",
+        "The university was well respected for its research in theoretical physics.",
+        1
+    ],
+    "26_43_a":
+    [
+        "university: institute/team",
+        "The university was well respected for its research in theoretical physics.",
+        "The university won over two thirds of last season’s basketball matches.",
+        1
+    ],
+    "26_43_b":
+    [
+        "university: institute/team",
+        "The university won over two thirds of last season’s basketball matches.",
+        "The university was well respected for its research in theoretical physics.",
+        1
+    ],
+    "26_44_a":
+    [
+        "university: institute/institute",
+        "The university was well respected for its research in theoretical physics.",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        1
+    ],
+    "26_44_b":
+    [
+        "university: institute/institute",
+        "The university obtained a ‘Class A’ distinction in the annual ranking.",
+        "The university was well respected for its research in theoretical physics.",
+        1
+    ],
+    "27_11_a":
+    [
+        "record: physical/physical",
+        "The record appeared to be badly warped due to improper storage.",
+        "The record had a white label with a handwritten note from the artist.",
+        1
+    ],
+    "27_11_b":
+    [
+        "record: physical/physical",
+        "The record had a white label with a handwritten note from the artist.",
+        "The record appeared to be badly warped due to improper storage.",
+        1
+    ],
+    "27_12_a":
+    [
+        "record: physical/content",
+        "The record appeared to be badly warped due to improper storage.",
+        "The record quickly made everybody get together on the dance floor.",
+        1
+    ],
+    "27_12_b":
+    [
+        "record: physical/content",
+        "The record quickly made everybody get together on the dance floor.",
+        "The record appeared to be badly warped due to improper storage.",
+        1
+    ],
+    "27_13_a":
+    [
+        "record: physical/album",
+        "The record appeared to be badly warped due to improper storage.",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        1
+    ],
+    "27_13_b":
+    [
+        "record: physical/album",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        "The record appeared to be badly warped due to improper storage.",
+        1
+    ],
+    "27_14_a":
+    [
+        "record: physical/paperwork",
+        "The record appeared to be badly warped due to improper storage.",
+        "The record indicated that the buyer had paid the sum in full.",
+        1
+    ],
+    "27_14_b":
+    [
+        "record: physical/paperwork",
+        "The record indicated that the buyer had paid the sum in full.",
+        "The record appeared to be badly warped due to improper storage.",
+        1
+    ],
+    "27_15_a":
+    [
+        "record: physical/achievement",
+        "The record appeared to be badly warped due to improper storage.",
+        "The record remained unbroken until the regulations changed in 2017.",
+        1
+    ],
+    "27_15_b":
+    [
+        "record: physical/achievement",
+        "The record remained unbroken until the regulations changed in 2017.",
+        "The record appeared to be badly warped due to improper storage.",
+        1
+    ],
+    "27_21_a":
+    [
+        "record: content/physical",
+        "The record sounded amazing playing on the new stereo system.",
+        "The record had a white label with a handwritten note from the artist.",
+        1
+    ],
+    "27_21_b":
+    [
+        "record: content/physical",
+        "The record had a white label with a handwritten note from the artist.",
+        "The record sounded amazing playing on the new stereo system.",
+        1
+    ],
+    "27_22_a":
+    [
+        "record: content/content",
+        "The record sounded amazing playing on the new stereo system.",
+        "The record quickly made everybody get together on the dance floor.",
+        1
+    ],
+    "27_22_b":
+    [
+        "record: content/content",
+        "The record quickly made everybody get together on the dance floor.",
+        "The record sounded amazing playing on the new stereo system.",
+        1
+    ],
+    "27_23_a":
+    [
+        "record: content/album",
+        "The record sounded amazing playing on the new stereo system.",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        1
+    ],
+    "27_23_b":
+    [
+        "record: content/album",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        "The record sounded amazing playing on the new stereo system.",
+        1
+    ],
+    "27_24_a":
+    [
+        "record: content/paperwork",
+        "The record sounded amazing playing on the new stereo system.",
+        "The record indicated that the buyer had paid the sum in full.",
+        1
+    ],
+    "27_24_b":
+    [
+        "record: content/paperwork",
+        "The record indicated that the buyer had paid the sum in full.",
+        "The record sounded amazing playing on the new stereo system.",
+        1
+    ],
+    "27_25_a":
+    [
+        "record: content/achievement",
+        "The record sounded amazing playing on the new stereo system.",
+        "The record remained unbroken until the regulations changed in 2017.",
+        1
+    ],
+    "27_25_b":
+    [
+        "record: content/achievement",
+        "The record remained unbroken until the regulations changed in 2017.",
+        "The record sounded amazing playing on the new stereo system.",
+        1
+    ],
+    "27_31_a":
+    [
+        "record: album/physical",
+        "The record sold 12 million copies in the United States alone.",
+        "The record had a white label with a handwritten note from the artist.",
+        1
+    ],
+    "27_31_b":
+    [
+        "record: album/physical",
+        "The record had a white label with a handwritten note from the artist.",
+        "The record sold 12 million copies in the United States alone.",
+        1
+    ],
+    "27_32_a":
+    [
+        "record: album/content",
+        "The record sold 12 million copies in the United States alone.",
+        "The record quickly made everybody get together on the dance floor.",
+        1
+    ],
+    "27_32_b":
+    [
+        "record: album/content",
+        "The record quickly made everybody get together on the dance floor.",
+        "The record sold 12 million copies in the United States alone.",
+        1
+    ],
+    "27_33_a":
+    [
+        "record: album/album",
+        "The record sold 12 million copies in the United States alone.",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        1
+    ],
+    "27_33_b":
+    [
+        "record: album/album",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        "The record sold 12 million copies in the United States alone.",
+        1
+    ],
+    "27_34_a":
+    [
+        "record: album/paperwork",
+        "The record sold 12 million copies in the United States alone.",
+        "The record indicated that the buyer had paid the sum in full.",
+        1
+    ],
+    "27_34_b":
+    [
+        "record: album/paperwork",
+        "The record indicated that the buyer had paid the sum in full.",
+        "The record sold 12 million copies in the United States alone.",
+        1
+    ],
+    "27_35_a":
+    [
+        "record: album/achievement",
+        "The record sold 12 million copies in the United States alone.",
+        "The record remained unbroken until the regulations changed in 2017.",
+        1
+    ],
+    "27_35_b":
+    [
+        "record: album/achievement",
+        "The record remained unbroken until the regulations changed in 2017.",
+        "The record sold 12 million copies in the United States alone.",
+        1
+    ],
+    "27_41_a":
+    [
+        "record: paperwork/physical",
+        "The record showed that the antique wardrobe was sold last week.",
+        "The record had a white label with a handwritten note from the artist.",
+        1
+    ],
+    "27_41_b":
+    [
+        "record: paperwork/physical",
+        "The record had a white label with a handwritten note from the artist.",
+        "The record showed that the antique wardrobe was sold last week.",
+        1
+    ],
+    "27_42_a":
+    [
+        "record: paperwork/content",
+        "The record showed that the antique wardrobe was sold last week.",
+        "The record quickly made everybody get together on the dance floor.",
+        1
+    ],
+    "27_42_b":
+    [
+        "record: paperwork/content",
+        "The record quickly made everybody get together on the dance floor.",
+        "The record showed that the antique wardrobe was sold last week.",
+        1
+    ],
+    "27_43_a":
+    [
+        "record: paperwork/album",
+        "The record showed that the antique wardrobe was sold last week.",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        1
+    ],
+    "27_43_b":
+    [
+        "record: paperwork/album",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        "The record showed that the antique wardrobe was sold last week.",
+        1
+    ],
+    "27_44_a":
+    [
+        "record: paperwork/paperwork",
+        "The record showed that the antique wardrobe was sold last week.",
+        "The record indicated that the buyer had paid the sum in full.",
+        1
+    ],
+    "27_44_b":
+    [
+        "record: paperwork/paperwork",
+        "The record indicated that the buyer had paid the sum in full.",
+        "The record showed that the antique wardrobe was sold last week.",
+        1
+    ],
+    "27_45_a":
+    [
+        "record: paperwork/achievement",
+        "The record showed that the antique wardrobe was sold last week.",
+        "The record remained unbroken until the regulations changed in 2017.",
+        1
+    ],
+    "27_45_b":
+    [
+        "record: paperwork/achievement",
+        "The record remained unbroken until the regulations changed in 2017.",
+        "The record showed that the antique wardrobe was sold last week.",
+        1
+    ],
+    "27_51_a":
+    [
+        "record: achievement/physical",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        "The record had a white label with a handwritten note from the artist.",
+        1
+    ],
+    "27_51_b":
+    [
+        "record: achievement/physical",
+        "The record had a white label with a handwritten note from the artist.",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        1
+    ],
+    "27_52_a":
+    [
+        "record: achievement/content",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        "The record quickly made everybody get together on the dance floor.",
+        1
+    ],
+    "27_52_b":
+    [
+        "record: achievement/content",
+        "The record quickly made everybody get together on the dance floor.",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        1
+    ],
+    "27_53_a":
+    [
+        "record: achievement/album",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        1
+    ],
+    "27_53_b":
+    [
+        "record: achievement/album",
+        "The record was shortlisted for a prestigious Mercury Award in 2018.",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        1
+    ],
+    "27_54_a":
+    [
+        "record: achievement/paperwork",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        "The record indicated that the buyer had paid the sum in full.",
+        1
+    ],
+    "27_54_b":
+    [
+        "record: achievement/paperwork",
+        "The record indicated that the buyer had paid the sum in full.",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        1
+    ],
+    "27_55_a":
+    [
+        "record: achievement/achievement",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        "The record remained unbroken until the regulations changed in 2017.",
+        1
+    ],
+    "27_55_b":
+    [
+        "record: achievement/achievement",
+        "The record remained unbroken until the regulations changed in 2017.",
+        "The record was set during the 1996 Olympic Games in Atlanta.",
+        1
+    ],
+    "28_11_a":
+    [
+        "glass: container/container",
+        "The glass left a ring of condensed water on the cardboard coaster.",
+        "The glass was filled much lower than the fill line on the label.",
+        1
+    ],
+    "28_11_b":
+    [
+        "glass: container/container",
+        "The glass was filled much lower than the fill line on the label.",
+        "The glass left a ring of condensed water on the cardboard coaster.",
+        1
+    ],
+    "28_12_a":
+    [
+        "glass: container/content",
+        "The glass left a ring of condensed water on the cardboard coaster.",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        1
+    ],
+    "28_12_b":
+    [
+        "glass: container/content",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        "The glass left a ring of condensed water on the cardboard coaster.",
+        1
+    ],
+    "28_21_a":
+    [
+        "glass: content/container",
+        "The glass tasted like a apple juice blended with forest fruits.",
+        "The glass was filled much lower than the fill line on the label.",
+        1
+    ],
+    "28_21_b":
+    [
+        "glass: content/container",
+        "The glass was filled much lower than the fill line on the label.",
+        "The glass tasted like a apple juice blended with forest fruits.",
+        1
+    ],
+    "28_22_a":
+    [
+        "glass: content/content",
+        "The glass tasted like a apple juice blended with forest fruits.",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        1
+    ],
+    "28_22_b":
+    [
+        "glass: content/content",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        "The glass tasted like a apple juice blended with forest fruits.",
+        1
+    ],
+    "28_31_a":
+    [
+        "glass: container-/container",
+        "The glass chipped when they accidentally hit it with a billiard cue.",
+        "The glass was filled much lower than the fill line on the label.",
+        1
+    ],
+    "28_31_b":
+    [
+        "glass: container-/container",
+        "The glass was filled much lower than the fill line on the label.",
+        "The glass chipped when they accidentally hit it with a billiard cue.",
+        1
+    ],
+    "28_32_a":
+    [
+        "glass: container-/content",
+        "The glass chipped when they accidentally hit it with a billiard cue.",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        1
+    ],
+    "28_32_b":
+    [
+        "glass: container-/content",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        "The glass chipped when they accidentally hit it with a billiard cue.",
+        1
+    ],
+    "28_41_a":
+    [
+        "glass: content-/container",
+        "The glass seemed to be some kind of high-caffeine energy drink.",
+        "The glass was filled much lower than the fill line on the label.",
+        1
+    ],
+    "28_41_b":
+    [
+        "glass: content-/container",
+        "The glass was filled much lower than the fill line on the label.",
+        "The glass seemed to be some kind of high-caffeine energy drink.",
+        1
+    ],
+    "28_42_a":
+    [
+        "glass: content-/content",
+        "The glass seemed to be some kind of high-caffeine energy drink.",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        1
+    ],
+    "28_42_b":
+    [
+        "glass: content-/content",
+        "The glass thoroughly refreshed Ben after his 10k morning run.",
+        "The glass seemed to be some kind of high-caffeine energy drink.",
+        1
+    ],
+    "29_11_a":
+    [
+        "bottle: container/container",
+        "The bottle was a lot larger than the other ones on the shelf.",
+        "The bottle had not been opened since it was made in 1986.",
+        1
+    ],
+    "29_11_b":
+    [
+        "bottle: container/container",
+        "The bottle had not been opened since it was made in 1986.",
+        "The bottle was a lot larger than the other ones on the shelf.",
+        1
+    ],
+    "29_12_a":
+    [
+        "bottle: container/content",
+        "The bottle was a lot larger than the other ones on the shelf.",
+        "The bottle made them talk a lot louder than they normally did.",
+        1
+    ],
+    "29_12_b":
+    [
+        "bottle: container/content",
+        "The bottle made them talk a lot louder than they normally did.",
+        "The bottle was a lot larger than the other ones on the shelf.",
+        1
+    ],
+    "29_21_a":
+    [
+        "bottle: content/container",
+        "The bottle tasted exactly like Sue had always imagined.",
+        "The bottle had not been opened since it was made in 1986.",
+        1
+    ],
+    "29_21_b":
+    [
+        "bottle: content/container",
+        "The bottle had not been opened since it was made in 1986.",
+        "The bottle tasted exactly like Sue had always imagined.",
+        1
+    ],
+    "29_22_a":
+    [
+        "bottle: content/content",
+        "The bottle tasted exactly like Sue had always imagined.",
+        "The bottle made them talk a lot louder than they normally did.",
+        1
+    ],
+    "29_22_b":
+    [
+        "bottle: content/content",
+        "The bottle made them talk a lot louder than they normally did.",
+        "The bottle tasted exactly like Sue had always imagined.",
+        1
+    ],
+    "29_31_a":
+    [
+        "bottle: container-/container",
+        "The bottle was made out of recycled glass fished from the ocean.",
+        "The bottle had not been opened since it was made in 1986.",
+        1
+    ],
+    "29_31_b":
+    [
+        "bottle: container-/container",
+        "The bottle had not been opened since it was made in 1986.",
+        "The bottle was made out of recycled glass fished from the ocean.",
+        1
+    ],
+    "29_32_a":
+    [
+        "bottle: container-/content",
+        "The bottle was made out of recycled glass fished from the ocean.",
+        "The bottle made them talk a lot louder than they normally did.",
+        1
+    ],
+    "29_32_b":
+    [
+        "bottle: container-/content",
+        "The bottle made them talk a lot louder than they normally did.",
+        "The bottle was made out of recycled glass fished from the ocean.",
+        1
+    ],
+    "29_41_a":
+    [
+        "bottle: content-/container",
+        "The bottle was a fruit spirit produced by a family-run distillery.",
+        "The bottle had not been opened since it was made in 1986.",
+        1
+    ],
+    "29_41_b":
+    [
+        "bottle: content-/container",
+        "The bottle had not been opened since it was made in 1986.",
+        "The bottle was a fruit spirit produced by a family-run distillery.",
+        1
+    ],
+    "29_42_a":
+    [
+        "bottle: content-/content",
+        "The bottle was a fruit spirit produced by a family-run distillery.",
+        "The bottle made them talk a lot louder than they normally did.",
+        1
+    ],
+    "29_42_b":
+    [
+        "bottle: content-/content",
+        "The bottle made them talk a lot louder than they normally did.",
+        "The bottle was a fruit spirit produced by a family-run distillery.",
+        1
+    ],
+    "30_11_a":
+    [
+        "cup: container/container",
+        "The cup was decorated with drawings of exotic animals.",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        1
+    ],
+    "30_11_b":
+    [
+        "cup: container/container",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        "The cup was decorated with drawings of exotic animals.",
+        1
+    ],
+    "30_12_a":
+    [
+        "cup: container/content",
+        "The cup was decorated with drawings of exotic animals.",
+        "The cup was sweetened by naturally occurring fructose.",
+        1
+    ],
+    "30_12_b":
+    [
+        "cup: container/content",
+        "The cup was sweetened by naturally occurring fructose.",
+        "The cup was decorated with drawings of exotic animals.",
+        1
+    ],
+    "30_13_a":
+    [
+        "cup: container/trophy",
+        "The cup was decorated with drawings of exotic animals.",
+        "The cup has last been won by the football club Liverpool FC.",
+        1
+    ],
+    "30_13_b":
+    [
+        "cup: container/trophy",
+        "The cup has last been won by the football club Liverpool FC.",
+        "The cup was decorated with drawings of exotic animals.",
+        1
+    ],
+    "30_21_a":
+    [
+        "cup: content/container",
+        "The cup tasted much sweeter than Jon remembered.",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        1
+    ],
+    "30_21_b":
+    [
+        "cup: content/container",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        "The cup tasted much sweeter than Jon remembered.",
+        1
+    ],
+    "30_22_a":
+    [
+        "cup: content/content",
+        "The cup tasted much sweeter than Jon remembered.",
+        "The cup was sweetened by naturally occurring fructose.",
+        1
+    ],
+    "30_22_b":
+    [
+        "cup: content/content",
+        "The cup was sweetened by naturally occurring fructose.",
+        "The cup tasted much sweeter than Jon remembered.",
+        1
+    ],
+    "30_23_a":
+    [
+        "cup: content/trophy",
+        "The cup tasted much sweeter than Jon remembered.",
+        "The cup has last been won by the football club Liverpool FC.",
+        1
+    ],
+    "30_23_b":
+    [
+        "cup: content/trophy",
+        "The cup has last been won by the football club Liverpool FC.",
+        "The cup tasted much sweeter than Jon remembered.",
+        1
+    ],
+    "30_31_a":
+    [
+        "cup: trophy/container",
+        "The cup is passed from one champion to the next every year.",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        1
+    ],
+    "30_31_b":
+    [
+        "cup: trophy/container",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        "The cup is passed from one champion to the next every year.",
+        1
+    ],
+    "30_32_a":
+    [
+        "cup: trophy/content",
+        "The cup is passed from one champion to the next every year.",
+        "The cup was sweetened by naturally occurring fructose.",
+        1
+    ],
+    "30_32_b":
+    [
+        "cup: trophy/content",
+        "The cup was sweetened by naturally occurring fructose.",
+        "The cup is passed from one champion to the next every year.",
+        1
+    ],
+    "30_33_a":
+    [
+        "cup: trophy/trophy",
+        "The cup is passed from one champion to the next every year.",
+        "The cup has last been won by the football club Liverpool FC.",
+        1
+    ],
+    "30_33_b":
+    [
+        "cup: trophy/trophy",
+        "The cup has last been won by the football club Liverpool FC.",
+        "The cup is passed from one champion to the next every year.",
+        1
+    ],
+    "30_41_a":
+    [
+        "cup: container-/container",
+        "The cup had a beautiful handle shaped to look like a snake.",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        1
+    ],
+    "30_41_b":
+    [
+        "cup: container-/container",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        "The cup had a beautiful handle shaped to look like a snake.",
+        1
+    ],
+    "30_42_a":
+    [
+        "cup: container-/content",
+        "The cup had a beautiful handle shaped to look like a snake.",
+        "The cup was sweetened by naturally occurring fructose.",
+        1
+    ],
+    "30_42_b":
+    [
+        "cup: container-/content",
+        "The cup was sweetened by naturally occurring fructose.",
+        "The cup had a beautiful handle shaped to look like a snake.",
+        1
+    ],
+    "30_43_a":
+    [
+        "cup: container-/trophy",
+        "The cup had a beautiful handle shaped to look like a snake.",
+        "The cup has last been won by the football club Liverpool FC.",
+        1
+    ],
+    "30_43_b":
+    [
+        "cup: container-/trophy",
+        "The cup has last been won by the football club Liverpool FC.",
+        "The cup had a beautiful handle shaped to look like a snake.",
+        1
+    ],
+    "30_51_a":
+    [
+        "cup: content-/container",
+        "The cup was made out of 100% fresh, sun-riped fruit.",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        1
+    ],
+    "30_51_b":
+    [
+        "cup: content-/container",
+        "The cup normally was kept on the bottom shelf of the cupboard.",
+        "The cup was made out of 100% fresh, sun-riped fruit.",
+        1
+    ],
+    "30_52_a":
+    [
+        "cup: content-/content",
+        "The cup was made out of 100% fresh, sun-riped fruit.",
+        "The cup was sweetened by naturally occurring fructose.",
+        1
+    ],
+    "30_52_b":
+    [
+        "cup: content-/content",
+        "The cup was sweetened by naturally occurring fructose.",
+        "The cup was made out of 100% fresh, sun-riped fruit.",
+        1
+    ],
+    "30_53_a":
+    [
+        "cup: content-/trophy",
+        "The cup was made out of 100% fresh, sun-riped fruit.",
+        "The cup has last been won by the football club Liverpool FC.",
+        1
+    ],
+    "30_53_b":
+    [
+        "cup: content-/trophy",
+        "The cup has last been won by the football club Liverpool FC.",
+        "The cup was made out of 100% fresh, sun-riped fruit.",
+        1
+    ],
+    "31_11_a":
+    [
+        "beer: container/container",
+        "The beer left a ring of condensed water on the cardboard coaster.",
+        "The beer was filled much lower than the fill line on the label.",
+        1
+    ],
+    "31_11_b":
+    [
+        "beer: container/container",
+        "The beer was filled much lower than the fill line on the label.",
+        "The beer left a ring of condensed water on the cardboard coaster.",
+        1
+    ],
+    "31_12_a":
+    [
+        "beer: container/content",
+        "The beer left a ring of condensed water on the cardboard coaster.",
+        "The beer thoroughly refreshed Ben after his 10k evening run.",
+        1
+    ],
+    "31_12_b":
+    [
+        "beer: container/content",
+        "The beer thoroughly refreshed Ben after his 10k evening run.",
+        "The beer left a ring of condensed water on the cardboard coaster.",
+        1
+    ],
+    "31_21_a":
+    [
+        "beer: content/container",
+        "The beer tasted exactly like Sue had remembered it.",
+        "The beer was filled much lower than the fill line on the label.",
+        1
+    ],
+    "31_21_b":
+    [
+        "beer: content/container",
+        "The beer was filled much lower than the fill line on the label.",
+        "The beer tasted exactly like Sue had remembered it.",
+        1
+    ],
+    "31_22_a":
+    [
+        "beer: content/content",
+        "The beer tasted exactly like Sue had remembered it.",
+        "The beer thoroughly refreshed Ben after his 10k evening run.",
+        1
+    ],
+    "31_22_b":
+    [
+        "beer: content/content",
+        "The beer thoroughly refreshed Ben after his 10k evening run.",
+        "The beer tasted exactly like Sue had remembered it.",
+        1
+    ],
+    "31_31_a":
+    [
+        "beer: container-/container",
+        "The beer was made out of recycled glass fished from the ocean.",
+        "The beer was filled much lower than the fill line on the label.",
+        1
+    ],
+    "31_31_b":
+    [
+        "beer: container-/container",
+        "The beer was filled much lower than the fill line on the label.",
+        "The beer was made out of recycled glass fished from the ocean.",
+        1
+    ],
+    "31_32_a":
+    [
+        "beer: container-/content",
+        "The beer was made out of recycled glass fished from the ocean.",
+        "The beer thoroughly refreshed Ben after his 10k evening run.",
+        1
+    ],
+    "31_32_b":
+    [
+        "beer: container-/content",
+        "The beer thoroughly refreshed Ben after his 10k evening run.",
+        "The beer was made out of recycled glass fished from the ocean.",
+        1
+    ],
+    "32_11_a":
+    [
+        "milk: container/container",
+        "The milk was just too large to fit into the fridge’s door compartment.",
+        "The milk had a beautiful drawing of grazing cows on the front.",
+        1
+    ],
+    "32_11_b":
+    [
+        "milk: container/container",
+        "The milk had a beautiful drawing of grazing cows on the front.",
+        "The milk was just too large to fit into the fridge’s door compartment.",
+        1
+    ],
+    "32_12_a":
+    [
+        "milk: container/content",
+        "The milk was just too large to fit into the fridge’s door compartment.",
+        "The milk was the last ingredient for his perfect bowl of cereal.",
+        1
+    ],
+    "32_12_b":
+    [
+        "milk: container/content",
+        "The milk was the last ingredient for his perfect bowl of cereal.",
+        "The milk was just too large to fit into the fridge’s door compartment.",
+        1
+    ],
+    "32_21_a":
+    [
+        "milk: content/container",
+        "The milk had been treated to stay fresh for almost a week.",
+        "The milk had a beautiful drawing of grazing cows on the front.",
+        1
+    ],
+    "32_21_b":
+    [
+        "milk: content/container",
+        "The milk had a beautiful drawing of grazing cows on the front.",
+        "The milk had been treated to stay fresh for almost a week.",
+        1
+    ],
+    "32_22_a":
+    [
+        "milk: content/content",
+        "The milk had been treated to stay fresh for almost a week.",
+        "The milk was the last ingredient for his perfect bowl of cereal.",
+        1
+    ],
+    "32_22_b":
+    [
+        "milk: content/content",
+        "The milk was the last ingredient for his perfect bowl of cereal.",
+        "The milk had been treated to stay fresh for almost a week.",
+        1
+    ],
+    "32_31_a":
+    [
+        "milk: container-/container",
+        "The milk got squished when they dropped it on the kitchen surface.",
+        "The milk had a beautiful drawing of grazing cows on the front.",
+        1
+    ],
+    "32_31_b":
+    [
+        "milk: container-/container",
+        "The milk had a beautiful drawing of grazing cows on the front.",
+        "The milk got squished when they dropped it on the kitchen surface.",
+        1
+    ],
+    "32_32_a":
+    [
+        "milk: container-/content",
+        "The milk got squished when they dropped it on the kitchen surface.",
+        "The milk was the last ingredient for his perfect bowl of cereal.",
+        1
+    ],
+    "32_32_b":
+    [
+        "milk: container-/content",
+        "The milk was the last ingredient for his perfect bowl of cereal.",
+        "The milk got squished when they dropped it on the kitchen surface.",
+        1
+    ],
+    "33_11_a":
+    [
+        "juice: container/container",
+        "The juice was just too large to fit into the fridge’s door compartment.",
+        "The juice had drawings of exotic fruits Sue had never seen before.",
+        1
+    ],
+    "33_11_b":
+    [
+        "juice: container/container",
+        "The juice had drawings of exotic fruits Sue had never seen before.",
+        "The juice was just too large to fit into the fridge’s door compartment.",
+        1
+    ],
+    "33_12_a":
+    [
+        "juice: container/content",
+        "The juice was just too large to fit into the fridge’s door compartment.",
+        "The juice was sweetened by naturally occurring fructose only.",
+        1
+    ],
+    "33_12_b":
+    [
+        "juice: container/content",
+        "The juice was sweetened by naturally occurring fructose only.",
+        "The juice was just too large to fit into the fridge’s door compartment.",
+        1
+    ],
+    "33_21_a":
+    [
+        "juice: content/container",
+        "The juice was made out of 100% fresh, sun-riped fruit.",
+        "The juice had drawings of exotic fruits Sue had never seen before.",
+        1
+    ],
+    "33_21_b":
+    [
+        "juice: content/container",
+        "The juice had drawings of exotic fruits Sue had never seen before.",
+        "The juice was made out of 100% fresh, sun-riped fruit.",
+        1
+    ],
+    "33_22_a":
+    [
+        "juice: content/content",
+        "The juice was made out of 100% fresh, sun-riped fruit.",
+        "The juice was sweetened by naturally occurring fructose only.",
+        1
+    ],
+    "33_22_b":
+    [
+        "juice: content/content",
+        "The juice was sweetened by naturally occurring fructose only.",
+        "The juice was made out of 100% fresh, sun-riped fruit.",
+        1
+    ],
+    "33_31_a":
+    [
+        "juice: container-/container",
+        "The juice got squished when they dropped it from the shelf.",
+        "The juice had drawings of exotic fruits Sue had never seen before.",
+        1
+    ],
+    "33_31_b":
+    [
+        "juice: container-/container",
+        "The juice had drawings of exotic fruits Sue had never seen before.",
+        "The juice got squished when they dropped it from the shelf.",
+        1
+    ],
+    "33_32_a":
+    [
+        "juice: container-/content",
+        "The juice got squished when they dropped it from the shelf.",
+        "The juice was sweetened by naturally occurring fructose only.",
+        1
+    ],
+    "33_32_b":
+    [
+        "juice: container-/content",
+        "The juice was sweetened by naturally occurring fructose only.",
+        "The juice got squished when they dropped it from the shelf.",
+        1
+    ],
+    "f_11_a":
+    [
+        "Filler: beer/The Guardian",
+        "The beer had a thick layer of foam.",
+        "The Guardian was sued for defamation.",
+        1
+    ],
+    "f_11_b":
+    [
+        "Filler: beer/The Guardian",
+        "The Guardian was sued for defamation.",
+        "The beer had a thick layer of foam.",
+        1
+    ],
+    "f_12_a":
+    [
+        "Filler: War of the Worlds/bottle",
+        "War of the Worlds is bound in black embossed leather.",
+        "The bottle has a modern screw-on cap.",
+        1
+    ],
+    "f_12_b":
+    [
+        "Filler: War of the Worlds/bottle",
+        "The bottle has a modern screw-on cap.",
+        "War of the Worlds is bound in black embossed leather.",
+        1
+    ],
+    "f_13_a":
+    [
+        "Filler: Dinner/milk",
+        "Dinner brings together all the hospital staff.",
+        "The milk had a red cow on the label.",
+        1
+    ],
+    "f_13_b":
+    [
+        "Filler: Dinner/milk",
+        "The milk had a red cow on the label.",
+        "Dinner brings together all the hospital staff.",
+        1
+    ],
+    "f_14_a":
+    [
+        "Filler: Dickens/record",
+        "Dickens advocates Children’s rights.",
+        "The record is made from coloured vinyl.",
+        1
+    ],
+    "f_14_b":
+    [
+        "Filler: Dickens/record",
+        "The record is made from coloured vinyl.",
+        "Dickens advocates Children’s rights.",
+        1
+    ],
+    "f_15_a":
+    [
+        "Filler: The Guardian/Dinner",
+        "The Guardian fired its editor in chief.",
+        "Dinner was exceptionally delicious today.",
+        1
+    ],
+    "f_15_b":
+    [
+        "Filler: The Guardian/Dinner",
+        "Dinner was exceptionally delicious today.",
+        "The Guardian fired its editor in chief.",
+        1
+    ],
+    "f_16_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds won a range of international awards.",
+        "The Guardian is rather satirical today.",
+        1
+    ],
+    "f_16_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian is rather satirical today.",
+        "War of the Worlds won a range of international awards.",
+        1
+    ],
+    "f_17_a":
+    [
+        "Filler: The Guardian/Dickens",
+        "The Guardian listed all affected stores.",
+        "Dickens grew up very poor.",
+        1
+    ],
+    "f_17_b":
+    [
+        "Filler: The Guardian/Dickens",
+        "Dickens grew up very poor.",
+        "The Guardian listed all affected stores.",
+        1
+    ],
+    "f_18_a":
+    [
+        "Filler: Dinner/War of the Worlds",
+        "Dinner got cold while we waited for someone.",
+        "War of the Worlds won a range of international awards.",
+        1
+    ],
+    "f_18_b":
+    [
+        "Filler: Dinner/War of the Worlds",
+        "War of the Worlds won a range of international awards.",
+        "Dinner got cold while we waited for someone.",
+        1
+    ],
+    "f_19_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds is an expensive, signed first edition.",
+        "The Guardian listed all affected stores.",
+        1
+    ],
+    "f_19_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian listed all affected stores.",
+        "War of the Worlds is an expensive, signed first edition.",
+        1
+    ],
+    "f_210_a":
+    [
+        "Filler: Dickens/War of the Worlds",
+        "Dickens grew up very poor.",
+        "War of the Worlds gathers dust on the top shelf.",
+        1
+    ],
+    "f_210_b":
+    [
+        "Filler: Dickens/War of the Worlds",
+        "War of the Worlds gathers dust on the top shelf.",
+        "Dickens grew up very poor.",
+        1
+    ],
+    "f_21_a":
+    [
+        "Filler: CD/The Guardian",
+        "The CD has some scratches but looks fine.",
+        "The Guardian struggles financially.",
+        1
+    ],
+    "f_21_b":
+    [
+        "Filler: CD/The Guardian",
+        "The Guardian struggles financially.",
+        "The CD has some scratches but looks fine.",
+        1
+    ],
+    "f_22_a":
+    [
+        "Filler: War of the Worlds/Dinner",
+        "War of the Worlds was used to weigh down the mail.",
+        "Dinner was so spicy that it made me cry.",
+        1
+    ],
+    "f_22_b":
+    [
+        "Filler: War of the Worlds/Dinner",
+        "Dinner was so spicy that it made me cry.",
+        "War of the Worlds was used to weigh down the mail.",
+        1
+    ],
+    "f_23_a":
+    [
+        "Filler: The Guardian/bottle",
+        "The Guardian hired a new designer.",
+        "The bottle lay in a padded wooden box.",
+        1
+    ],
+    "f_23_b":
+    [
+        "Filler: The Guardian/bottle",
+        "The bottle lay in a padded wooden box.",
+        "The Guardian hired a new designer.",
+        1
+    ],
+    "f_24_a":
+    [
+        "Filler: War of the Worlds/Dickens",
+        "War of the Worlds is an exceptionally gripping read.",
+        "Dickens is full of satire and caricature.",
+        1
+    ],
+    "f_24_b":
+    [
+        "Filler: War of the Worlds/Dickens",
+        "Dickens is full of satire and caricature.",
+        "War of the Worlds is an exceptionally gripping read.",
+        1
+    ],
+    "f_25_a":
+    [
+        "Filler: The Guardian/record",
+        "The Guardian fired its editor in chief.",
+        "The record is stamped ‘confidential’.",
+        1
+    ],
+    "f_25_b":
+    [
+        "Filler: The Guardian/record",
+        "The record is stamped ‘confidential’.",
+        "The Guardian fired its editor in chief.",
+        1
+    ],
+    "f_26_a":
+    [
+        "Filler: The Guardian/War of the Worlds",
+        "The Guardian has a large sports section.",
+        "War of the Worlds just wouldn't fit on the new shelves.",
+        1
+    ],
+    "f_26_b":
+    [
+        "Filler: The Guardian/War of the Worlds",
+        "War of the Worlds just wouldn't fit on the new shelves.",
+        "The Guardian has a large sports section.",
+        1
+    ],
+    "f_27_a":
+    [
+        "Filler: The Guardian/record",
+        "The Guardian struggles financially.",
+        "The record could prove her innocence.",
+        1
+    ],
+    "f_27_b":
+    [
+        "Filler: The Guardian/record",
+        "The record could prove her innocence.",
+        "The Guardian struggles financially.",
+        1
+    ],
+    "f_28_a":
+    [
+        "Filler: Dinner/hatch",
+        "Dinner was held in a restaurant in London.",
+        "The hatch is too small for grown-ups.",
+        1
+    ],
+    "f_28_b":
+    [
+        "Filler: Dinner/hatch",
+        "The hatch is too small for grown-ups.",
+        "Dinner was held in a restaurant in London.",
+        1
+    ],
+    "f_29_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds was first published in 1898.",
+        "The Guardian contains advertisements.",
+        1
+    ],
+    "f_29_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian contains advertisements.",
+        "War of the Worlds was first published in 1898.",
+        1
+    ],
+    "f_310_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds was adapted as a movie multiple times.",
+        "The Guardian was sued for defamation.",
+        1
+    ],
+    "f_310_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian was sued for defamation.",
+        "War of the Worlds was adapted as a movie multiple times.",
+        1
+    ],
+    "f_31_a":
+    [
+        "Filler: beer/Dickens",
+        "The beer is a little dusty from storage.",
+        "Dickens grew up very poor.",
+        1
+    ],
+    "f_31_b":
+    [
+        "Filler: beer/Dickens",
+        "Dickens grew up very poor.",
+        "The beer is a little dusty from storage.",
+        1
+    ],
+    "f_32_a":
+    [
+        "Filler: hatch/Dinner",
+        "The hatch leads to a long tunnel.",
+        "Dinner is great for socialising and networking.",
+        1
+    ],
+    "f_32_b":
+    [
+        "Filler: hatch/Dinner",
+        "Dinner is great for socialising and networking.",
+        "The hatch leads to a long tunnel.",
+        1
+    ],
+    "f_33_a":
+    [
+        "Filler: The Guardian/university",
+        "The Guardian hired a new designer.",
+        "The university is highly competitive in football.",
+        1
+    ],
+    "f_33_b":
+    [
+        "Filler: The Guardian/university",
+        "The university is highly competitive in football.",
+        "The Guardian hired a new designer.",
+        1
+    ],
+    "f_34_a":
+    [
+        "Filler: Dinner/War of the Worlds",
+        "Dinner was exceptionally delicious today.",
+        "War of the Worlds gathers dust on the top shelf.",
+        1
+    ],
+    "f_34_b":
+    [
+        "Filler: Dinner/War of the Worlds",
+        "War of the Worlds gathers dust on the top shelf.",
+        "Dinner was exceptionally delicious today.",
+        1
+    ],
+    "f_35_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds was first published in 1898.",
+        "The Guardian struggles financially.",
+        1
+    ],
+    "f_35_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian struggles financially.",
+        "War of the Worlds was first published in 1898.",
+        1
+    ],
+    "f_36_a":
+    [
+        "Filler: War of the Worlds/Dickens",
+        "War of the Worlds describes an alien attack on Earth.",
+        "Dickens advocates Children’s rights.",
+        1
+    ],
+    "f_36_b":
+    [
+        "Filler: War of the Worlds/Dickens",
+        "Dickens advocates Children’s rights.",
+        "War of the Worlds describes an alien attack on Earth.",
+        1
+    ],
+    "f_37_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds is a staple of science fiction writing.",
+        "The Guardian was sued for defamation.",
+        1
+    ],
+    "f_37_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian was sued for defamation.",
+        "War of the Worlds is a staple of science fiction writing.",
+        1
+    ],
+    "f_38_a":
+    [
+        "Filler: CD/War of the Worlds",
+        "The CD has a far higher fidelity than a cassette.",
+        "War of the Worlds only took a few months to be completed.",
+        1
+    ],
+    "f_38_b":
+    [
+        "Filler: CD/War of the Worlds",
+        "War of the Worlds only took a few months to be completed.",
+        "The CD has a far higher fidelity than a cassette.",
+        1
+    ],
+    "f_39_a":
+    [
+        "Filler: Dinner/picture",
+        "Dinner took more than an hour yesterday.",
+        "The picture was glued into a photo album.",
+        1
+    ],
+    "f_39_b":
+    [
+        "Filler: Dinner/picture",
+        "The picture was glued into a photo album.",
+        "Dinner took more than an hour yesterday.",
+        1
+    ],
+    "f_410_a":
+    [
+        "Filler: Dickens/The Guardian",
+        "Dickens grew up very poor.",
+        "The Guardian contains advertisements.",
+        1
+    ],
+    "f_410_b":
+    [
+        "Filler: Dickens/The Guardian",
+        "The Guardian contains advertisements.",
+        "Dickens grew up very poor.",
+        1
+    ],
+    "f_41_a":
+    [
+        "Filler: War of the Worlds/beer",
+        "War of the Worlds describes an alien attack on Earth.",
+        "The beer has a modern screw-on cap.",
+        1
+    ],
+    "f_41_b":
+    [
+        "Filler: War of the Worlds/beer",
+        "The beer has a modern screw-on cap.",
+        "War of the Worlds describes an alien attack on Earth.",
+        1
+    ],
+    "f_42_a":
+    [
+        "Filler: The Guardian/lamb",
+        "The Guardian wasn't very interesting.",
+        "The lamb ran for cover behind its mother.",
+        1
+    ],
+    "f_42_b":
+    [
+        "Filler: The Guardian/lamb",
+        "The lamb ran for cover behind its mother.",
+        "The Guardian wasn't very interesting.",
+        1
+    ],
+    "f_43_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds was used to weigh down the mail.",
+        "The Guardian hired a new designer.",
+        1
+    ],
+    "f_43_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian hired a new designer.",
+        "War of the Worlds was used to weigh down the mail.",
+        1
+    ],
+    "f_44_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds is an exceptionally gripping read.",
+        "The Guardian contains advertisements.",
+        1
+    ],
+    "f_44_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian contains advertisements.",
+        "War of the Worlds is an exceptionally gripping read.",
+        1
+    ],
+    "f_45_a":
+    [
+        "Filler: The Guardian/War of the Worlds",
+        "The Guardian has around 150 employees.",
+        "War of the Worlds describes an alien attack on Earth.",
+        1
+    ],
+    "f_45_b":
+    [
+        "Filler: The Guardian/War of the Worlds",
+        "War of the Worlds describes an alien attack on Earth.",
+        "The Guardian has around 150 employees.",
+        1
+    ],
+    "f_46_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds is an exceptionally gripping read.",
+        "The Guardian has a large sports section.",
+        1
+    ],
+    "f_46_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian has a large sports section.",
+        "War of the Worlds is an exceptionally gripping read.",
+        1
+    ],
+    "f_47_a":
+    [
+        "Filler: The Guardian/Dinner",
+        "The Guardian fired its editor in chief.",
+        "Dinner was held in a restaurant in London.",
+        1
+    ],
+    "f_47_b":
+    [
+        "Filler: The Guardian/Dinner",
+        "Dinner was held in a restaurant in London.",
+        "The Guardian fired its editor in chief.",
+        1
+    ],
+    "f_48_a":
+    [
+        "Filler: CD/The Guardian",
+        "The CD sparked discussions about copyright laws.",
+        "The Guardian struggles financially.",
+        1
+    ],
+    "f_48_b":
+    [
+        "Filler: CD/The Guardian",
+        "The Guardian struggles financially.",
+        "The CD sparked discussions about copyright laws.",
+        1
+    ],
+    "f_49_a":
+    [
+        "Filler: university/Dickens",
+        "The university won last year's summer championship.",
+        "Dickens is full of satire and caricature.",
+        1
+    ],
+    "f_49_b":
+    [
+        "Filler: university/Dickens",
+        "Dickens is full of satire and caricature.",
+        "The university won last year's summer championship.",
+        1
+    ],
+    "f_510_a":
+    [
+        "Filler: War of the Worlds/Dickens",
+        "War of the Worlds is a staple of science fiction writing.",
+        "Dickens was bullied as a child.",
+        1
+    ],
+    "f_510_b":
+    [
+        "Filler: War of the Worlds/Dickens",
+        "Dickens was bullied as a child.",
+        "War of the Worlds is a staple of science fiction writing.",
+        1
+    ],
+    "f_51_a":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "War of the Worlds is an exceptionally gripping read.",
+        "The Guardian struggles financially.",
+        1
+    ],
+    "f_51_b":
+    [
+        "Filler: War of the Worlds/The Guardian",
+        "The Guardian struggles financially.",
+        "War of the Worlds is an exceptionally gripping read.",
+        1
+    ],
+    "f_52_a":
+    [
+        "Filler: picture/The Guardian",
+        "The picture is a little dark and blurry.",
+        "The Guardian was sued for defamation.",
+        1
+    ],
+    "f_52_b":
+    [
+        "Filler: picture/The Guardian",
+        "The Guardian was sued for defamation.",
+        "The picture is a little dark and blurry.",
+        1
+    ],
+    "f_53_a":
+    [
+        "Filler: War of the Worlds/lamb",
+        "War of the Worlds was used to weigh down the mail.",
+        "The lamb was born earlier this spring.",
+        1
+    ],
+    "f_53_b":
+    [
+        "Filler: War of the Worlds/lamb",
+        "The lamb was born earlier this spring.",
+        "War of the Worlds was used to weigh down the mail.",
+        1
+    ],
+    "f_54_a":
+    [
+        "Filler: Dinner/The Guardian",
+        "Dinner was exceptionally delicious today.",
+        "The Guardian listed all affected stores.",
+        1
+    ],
+    "f_54_b":
+    [
+        "Filler: Dinner/The Guardian",
+        "The Guardian listed all affected stores.",
+        "Dinner was exceptionally delicious today.",
+        1
+    ],
+    "f_55_a":
+    [
+        "Filler: War of the Worlds/Dinner",
+        "War of the Worlds was adapted as a movie multiple times.",
+        "Dinner was exceptionally delicious today.",
+        1
+    ],
+    "f_55_b":
+    [
+        "Filler: War of the Worlds/Dinner",
+        "Dinner was exceptionally delicious today.",
+        "War of the Worlds was adapted as a movie multiple times.",
+        1
+    ],
+    "f_56_a":
+    [
+        "Filler: Dickens/The Guardian",
+        "Dickens was bullied as a child.",
+        "The Guardian has a large sports section.",
+        1
+    ],
+    "f_56_b":
+    [
+        "Filler: Dickens/The Guardian",
+        "The Guardian has a large sports section.",
+        "Dickens was bullied as a child.",
+        1
+    ],
+    "f_57_a":
+    [
+        "Filler: bottle/War of the Worlds",
+        "The bottle fell off the kitchen counter.",
+        "War of the Worlds won a range of international awards.",
+        1
+    ],
+    "f_57_b":
+    [
+        "Filler: bottle/War of the Worlds",
+        "War of the Worlds won a range of international awards.",
+        "The bottle fell off the kitchen counter.",
+        1
+    ],
+    "f_58_a":
+    [
+        "Filler: Dickens/beer",
+        "Dickens is still widely read today.",
+        "The beer only has 3% alcohol content.",
+        1
+    ],
+    "f_58_b":
+    [
+        "Filler: Dickens/beer",
+        "The beer only has 3% alcohol content.",
+        "Dickens is still widely read today.",
+        1
+    ],
+    "f_59_a":
+    [
+        "Filler: Dinner/university",
+        "Dinner was moved to 7:00 PM earlier today.",
+        "The university promises living wage jobs for all employees.",
+        1
+    ],
+    "f_59_b":
+    [
+        "Filler: Dinner/university",
+        "The university promises living wage jobs for all employees.",
+        "Dinner was moved to 7:00 PM earlier today.",
+        1
+    ],
+    "h_0_a":
+    [
+        "Homonym: bat",
+        "The bat came in through the open window.",
+        "The bat broke when he hit the fence with it.",
+        1
+    ],
+    "h_0_b":
+    [
+        "Homonym: bat",
+        "The bat broke when he hit the fence with it.",
+        "The bat came in through the open window.",
+        1
+    ],
+    "h_10_a":
+    [
+        "Homonym: stall",
+        "The stall barely fit the large bull.",
+        "The stall didn’t have any toilet paper.",
+        1
+    ],
+    "h_10_b":
+    [
+        "Homonym: stall",
+        "The stall didn’t have any toilet paper.",
+        "The stall barely fit the large bull.",
+        1
+    ],
+    "h_11_a":
+    [
+        "Homonym: spring",
+        "The spring in the garden feeds the little pond with fresh water.",
+        "The spring in the ballpen lets you open it with a simple click.",
+        1
+    ],
+    "h_11_b":
+    [
+        "Homonym: spring",
+        "The spring in the ballpen lets you open it with a simple click.",
+        "The spring in the garden feeds the little pond with fresh water.",
+        1
+    ],
+    "h_12_a":
+    [
+        "Homonym: mine",
+        "The mine had to close after the accident.",
+        "The mine could be defused by an expert.",
+        1
+    ],
+    "h_12_b":
+    [
+        "Homonym: mine",
+        "The mine could be defused by an expert.",
+        "The mine had to close after the accident.",
+        1
+    ],
+    "h_13_a":
+    [
+        "Homonym: order",
+        "The order welcomed the new members.",
+        "The order was shipped two weeks late.",
+        1
+    ],
+    "h_13_b":
+    [
+        "Homonym: order",
+        "The order was shipped two weeks late.",
+        "The order welcomed the new members.",
+        1
+    ],
+    "h_14_a":
+    [
+        "Homonym: jumper",
+        "The jumper broke a long-standing record.",
+        "The jumper didn’t really fit her that well.",
+        1
+    ],
+    "h_14_b":
+    [
+        "Homonym: jumper",
+        "The jumper didn’t really fit her that well.",
+        "The jumper broke a long-standing record.",
+        1
+    ],
+    "h_1_a":
+    [
+        "Homonym: match",
+        "The match burned my fingers.",
+        "The match ended without a winner.",
+        1
+    ],
+    "h_1_b":
+    [
+        "Homonym: match",
+        "The match ended without a winner.",
+        "The match burned my fingers.",
+        1
+    ],
+    "h_2_a":
+    [
+        "Homonym: club",
+        "The club only admits women older than 50.",
+        "The club felt very heavy and unwieldy. ",
+        1
+    ],
+    "h_2_b":
+    [
+        "Homonym: club",
+        "The club felt very heavy and unwieldy. ",
+        "The club only admits women older than 50.",
+        1
+    ],
+    "h_3_a":
+    [
+        "Homonym: bank",
+        "The bank was washed out by the current.",
+        "The bank increased the interest rate.",
+        1
+    ],
+    "h_3_b":
+    [
+        "Homonym: bank",
+        "The bank increased the interest rate.",
+        "The bank was washed out by the current.",
+        1
+    ],
+    "h_4_a":
+    [
+        "Homonym: mole",
+        "The mole dug tunnels all throughout the garden.",
+        "The mole needs to be removed as it is cancerous.",
+        1
+    ],
+    "h_4_b":
+    [
+        "Homonym: mole",
+        "The mole needs to be removed as it is cancerous.",
+        "The mole dug tunnels all throughout the garden.",
+        1
+    ],
+    "h_5_a":
+    [
+        "Homonym: pitcher",
+        "The pitcher threw a number of perfect curveballs.",
+        "The pitcher broke when the waiter dropped it.",
+        1
+    ],
+    "h_5_b":
+    [
+        "Homonym: pitcher",
+        "The pitcher broke when the waiter dropped it.",
+        "The pitcher threw a number of perfect curveballs.",
+        1
+    ],
+    "h_6_a":
+    [
+        "Homonym: rocket",
+        "The rocket left the atmosphere at 2AM tonight.",
+        "The rocket was bitter taste and ruined the pizza.",
+        1
+    ],
+    "h_6_b":
+    [
+        "Homonym: rocket",
+        "The rocket was bitter taste and ruined the pizza.",
+        "The rocket left the atmosphere at 2AM tonight.",
+        1
+    ],
+    "h_7_a":
+    [
+        "Homonym: tank",
+        "The tank could easily fit 500 litres of water.",
+        "The tank could easily shoot further than 3 miles.",
+        1
+    ],
+    "h_7_b":
+    [
+        "Homonym: tank",
+        "The tank could easily shoot further than 3 miles.",
+        "The tank could easily fit 500 litres of water.",
+        1
+    ],
+    "h_8_a":
+    [
+        "Homonym: watch",
+        "The watch slipped off his hand while he was swimming.",
+        "The watch reported troop movements on the south border.",
+        1
+    ],
+    "h_8_b":
+    [
+        "Homonym: watch",
+        "The watch reported troop movements on the south border.",
+        "The watch slipped off his hand while he was swimming.",
+        1
+    ],
+    "h_9_a":
+    [
+        "Homonym: yard",
+        "The yard equals exactly three feet.",
+        "The yard is just over 10 feet wide.",
+        1
+    ],
+    "h_9_b":
+    [
+        "Homonym: yard",
+        "The yard is just over 10 feet wide.",
+        "The yard equals exactly three feet.",
+        1
+    ],
+    "r_10":
+    [
+        "Test item: spring",
+        "The spring provides the oasis fresh water.",
+        "The mine could be defused by an expert.",
+        1
+    ],
+    "r_11":
+    [
+        "Test item: mine",
+        "The mine had to close after an accident.",
+        "The order was shipped two weeks later than expected.",
+        1
+    ],
+    "r_12":
+    [
+        "Test item: order",
+        "The order gladly welcomed the new members.",
+        "The jumper broke a long-standing regional record.",
+        1
+    ],
+    "r_13":
+    [
+        "Test item: jumper",
+        "The jumper broke a long-standing regional record.",
+        "The letter was signed by a famous magician.",
+        1
+    ],
+    "r_14":
+    [
+        "Test item: plane",
+        "The plane was a major feeding ground for buffalo.",
+        "The letter looked like it could be an old-fashioned q.",
+        1
+    ],
+    "r_15":
+    [
+        "Test item: mouse",
+        "The mouse stopped working in the middle of the presentation.",
+        "The plane landed with more than two hours delay.",
+        1
+    ],
+    "r_16":
+    [
+        "Test item: model",
+        "The model showed the proposed layout of the building complex.",
+        "The mouse had chewed a hole into the bread basket.",
+        1
+    ],
+    "r_17":
+    [
+        "Test item: model",
+        "The model wore a new dress designed by Versace.",
+        "The seal indicated that the letter had never been opened.",
+        1
+    ],
+    "r_18":
+    [
+        "Test item: seal",
+        "The seal had gotten itself caught in an old fishing net.",
+        "The bass added a thick, driving rhythm to the song.",
+        1
+    ],
+    "r_19":
+    [
+        "Test item: match",
+        "The match ended without a clear winner.",
+        "The bass managed to get off the hook.",
+        1
+    ],
+    "s_0":
+    [
+        "Test item: bat",
+        "The bat flew in through the open window.",
+        "The bat flew in through the door.",
+        1
+    ],
+    "s_0_a":
+    [
+        "Synonym: answer/reply",
+        "The answer came after more than a month.",
+        "The reply arrived within a couple of minutes.",
+        1
+    ],
+    "s_0_b":
+    [
+        "Synonym: answer/reply",
+        "The reply arrived within a couple of minutes.",
+        "The answer came after more than a month.",
+        1
+    ],
+    "s_1":
+    [
+        "Test item: jumper",
+        "The jumper didn’t really fit her that well.",
+        "The jumper didn’t really suit her style.",
+        1
+    ],
+    "s_10_a":
+    [
+        "Synonym: photo/image",
+        "The photo was of a picturesque lake.",
+        "The image shows a red muscle car.",
+        1
+    ],
+    "s_10_b":
+    [
+        "Synonym: photo/image",
+        "The image shows a red muscle car.",
+        "The photo was of a picturesque lake.",
+        1
+    ],
+    "s_11_a":
+    [
+        "Synonym: building/structure",
+        "The building burned down last week.",
+        "The structure collapsed years ago.",
+        1
+    ],
+    "s_11_b":
+    [
+        "Synonym: building/structure",
+        "The structure collapsed years ago.",
+        "The building burned down last week.",
+        1
+    ],
+    "s_12_a":
+    [
+        "Synonym: company/organisation",
+        "The company had to find a new office building.",
+        "The organisation expanded to Eastern Europe.",
+        1
+    ],
+    "s_12_b":
+    [
+        "Synonym: company/organisation",
+        "The organisation expanded to Eastern Europe.",
+        "The company had to find a new office building.",
+        1
+    ],
+    "s_13_a":
+    [
+        "Synonym: plank/board",
+        "The plank was torn out of the floor.",
+        "The board covered up a crack in the wall.",
+        1
+    ],
+    "s_13_b":
+    [
+        "Synonym: plank/board",
+        "The board covered up a crack in the wall.",
+        "The plank was torn out of the floor.",
+        1
+    ],
+    "s_14_a":
+    [
+        "Synonym: sea/ocean",
+        "The sea was much colder than the beach.",
+        "The ocean looked beautiful in the sunset.",
+        1
+    ],
+    "s_14_b":
+    [
+        "Synonym: sea/ocean",
+        "The ocean looked beautiful in the sunset.",
+        "The sea was much colder than the beach.",
+        1
+    ],
+    "s_1_a":
+    [
+        "Synonym: street/road",
+        "The street leads to a small town in the mountains.",
+        "The road ends at a beautiful hut made from wood.",
+        1
+    ],
+    "s_1_b":
+    [
+        "Synonym: street/road",
+        "The road ends at a beautiful hut made from wood.",
+        "The street leads to a small town in the mountains.",
+        1
+    ],
+    "s_2":
+    [
+        "Test item: club",
+        "The club only admits distinguished women over 50.",
+        "The club only admits accomplished women under 30.",
+        1
+    ],
+    "s_2_a":
+    [
+        "Synonym: world/planet",
+        "The world is heating up because of CO2 emissions.",
+        "The planet is heading towards a serious climate crisis.",
+        1
+    ],
+    "s_2_b":
+    [
+        "Synonym: world/planet",
+        "The planet is heading towards a serious climate crisis.",
+        "The world is heating up because of CO2 emissions.",
+        1
+    ],
+    "s_3":
+    [
+        "Test item: mole",
+        "The mole dug tunnels all throughout the garden.",
+        "The mole dug tunnels under the flower bed.",
+        1
+    ],
+    "s_3_a":
+    [
+        "Synonym: computer/PC",
+        "The computer suddenly turned off.",
+        "The PC needs to be replaced soon.",
+        1
+    ],
+    "s_3_b":
+    [
+        "Synonym: computer/PC",
+        "The PC needs to be replaced soon.",
+        "The computer suddenly turned off.",
+        1
+    ],
+    "s_4":
+    [
+        "Test item: pitcher",
+        "The pitcher threw a number of perfect curve balls.",
+        "The pitcher threw at least three curve balls.",
+        1
+    ],
+    "s_4_a":
+    [
+        "Synonym: problem/issue",
+        "The problem was solved by replacing a cable.",
+        "The issue couldn’t be resolved without tools.",
+        1
+    ],
+    "s_4_b":
+    [
+        "Synonym: problem/issue",
+        "The issue couldn’t be resolved without tools.",
+        "The problem was solved by replacing a cable.",
+        1
+    ],
+    "s_5":
+    [
+        "Test item: rocket",
+        "The rocket left the atmosphere at 2AM tonight.",
+        "The rocket left the atmosphere yesterday at 5PM.",
+        1
+    ],
+    "s_5_a":
+    [
+        "Synonym: capability/ability",
+        "The capability of modern computers is astonishing.",
+        "The ability to read and write is crucially important.",
+        1
+    ],
+    "s_5_b":
+    [
+        "Synonym: capability/ability",
+        "The ability to read and write is crucially important.",
+        "The capability of modern computers is astonishing.",
+        1
+    ],
+    "s_6":
+    [
+        "Test item: tank",
+        "The tank was filled with over 500 liters of water.",
+        "The tank was filled with a few hundred liters of water.",
+        1
+    ],
+    "s_6_a":
+    [
+        "Synonym: area/space",
+        "The area was roped off by the police.",
+        "The space was littered with rubbish.",
+        1
+    ],
+    "s_6_b":
+    [
+        "Synonym: area/space",
+        "The space was littered with rubbish.",
+        "The area was roped off by the police.",
+        1
+    ],
+    "s_7":
+    [
+        "Test item: watch",
+        "The watch slipped off his hand while he was swimming.",
+        "The watch slipped off his hand while he was running.",
+        1
+    ],
+    "s_7_a":
+    [
+        "Synonym: audience/crowd",
+        "The audience was very quiet during the concert.",
+        "The crowd was cheering on the football team.",
+        1
+    ],
+    "s_7_b":
+    [
+        "Synonym: audience/crowd",
+        "The crowd was cheering on the football team.",
+        "The audience was very quiet during the concert.",
+        1
+    ],
+    "s_8":
+    [
+        "Test item: yard",
+        "The yard was overgrown with weeds.",
+        "The yard was overgrown with scrub.",
+        1
+    ],
+    "s_8_a":
+    [
+        "Synonym: note/memo",
+        "The note on the fridge read “clean me!”.",
+        "The memo simply said “Meeting at 1PM”.",
+        1
+    ],
+    "s_8_b":
+    [
+        "Synonym: note/memo",
+        "The memo simply said “Meeting at 1PM”.",
+        "The note on the fridge read “clean me!”.",
+        1
+    ],
+    "s_9":
+    [
+        "Test item: plane",
+        "The plane landed with more than two hours delay.",
+        "The plane landed with over three hours delay.",
+        1
+    ],
+    "s_9_a":
+    [
+        "Synonym: advice/tip",
+        "The advice wasn’t very good.",
+        "The tip helped to fix the TV. ",
+        1
+    ],
+    "s_9_b":
+    [
+        "Synonym: advice/tip",
+        "The tip helped to fix the TV. ",
+        "The advice wasn’t very good.",
+        1
+    ]
+}
