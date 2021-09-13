@@ -64,24 +64,28 @@ The dataset used for our analyses excludes some items, filters out low-quality s
 
 Figures visualising the word sense similarity annotations for the different combinations of sense interpretations can be found in the folder `similarty_figures`. 
 
+![Sense Similarity Ratings for Newspaper](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/similarity_figures/Newspaper_judgements.png)
+![Sense Similarity Ratings for Magazine](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/similarity_figures/Magazine_judgements.png)
+
 ## Co-predication Acceptability Dataset
 
 The raw annotations for the co-predication acceptability can be found in `copredication_annotations_raw.json`, following the same structure as the similarity annotations. The cleaned dataset is stored in `copredication_judgements.json`. 
 
 Figures visualising the co-predication acceptability annotations for the different combinations of sense interpretations can be found in the folder `copredication_figures`.
 
+![Sense Similarity Ratings for Newspaper](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/copredication_figures/Newspaper_judgements.png)
+![Sense Similarity Ratings for Magazine](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/copredication_figures/Magazine_judgements.png)
+
 ## Word Sense Similarity Estimates from Contextualised Language Models
 
 Figures visualising the word sense similarity estimates for the different combinations of sense interpretations as calculated based on BERT Base, ELMo and Word2Vec can be found in the folder `computational_figures`. 
-
-![Sense Similarity Ratings for Newspaper](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/similarity_figures/Newspaper_judgements.png)
-![Sense Similarity Ratings for Magazine](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/similarity_figures/Magazine_judgements.png)
 
 ## Distributions of Annotations
 
 The folder `distribution_figures` contains figures showing the distributions of human annotations or computational similarity ratings for same-sense vs cross-sense readings of polysemic and homonymic items in the data. The paper contains more information and a detailed analysis of these figures.
 
 ![Distribution of Human Word Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/similarity_distribution.png)
+![Distribution of Human Co-predication Acceptability Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/acceptability_distribution.png)
 ![Distribution of BERT Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/bert_base_last4_distribution.png)
 
 ## Patterns of Lexical Ambiguity
