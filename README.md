@@ -86,7 +86,7 @@ The folder `distribution_figures` contains figures showing the distributions of 
 
 ![Distribution of Human Word Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/similarity_distribution.png)
 ![Distribution of Human Co-predication Acceptability Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/acceptability_distribution.png)
-![Distribution of BERT Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/bert_base_last4_distribution.png)
+![Distribution of BERT Sense Similarity Ratings](https://github.com/dali-ambiguity/Patterns-of-Lexical-Ambiguity/raw/main/distribution_figures/bert_large_last4_distribution.png)
 
 ## Patterns of Lexical Ambiguity
 
